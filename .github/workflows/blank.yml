@@ -20,9 +20,6 @@ jobs:
           filename: medias.svg
           token: ${{ secrets.TOKEN }}
           base: ""
-          config_order: anilist, music
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
