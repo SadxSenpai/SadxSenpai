@@ -21,3 +21,15 @@ jobs:
         base: ""
         plugin_isocalendar: yes
         plugin_isocalendar_duration: full-year
+        
+    - name: Anime
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.anilist.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_anilist_user: HappyxSenpai
+        plugin_anilist: yes
+        plugin_anilist_sections: favorites, characters
+        plugin_anilist_limit: 3
+        plugin_anilist_limit_characters: 22
