@@ -33,3 +33,13 @@ jobs:
         plugin_anilist_sections: favorites, characters
         plugin_anilist_limit: 3
         plugin_anilist_limit_characters: 22
+      
+    - name: Steam
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.steam.full.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+        plugin_steam: yes
+        plugin_steam_user: "0"
