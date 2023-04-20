@@ -72,6 +72,13 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_achievements: yes
+    
+    - name: Fortune
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.fortune.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
         plugin_fortune: yes
         
         
