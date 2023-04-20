@@ -26,6 +26,7 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.anilist.svg
+        token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_anilist_user: HappyxSenpai
         plugin_anilist: yes
