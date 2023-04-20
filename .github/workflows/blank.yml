@@ -65,7 +65,7 @@ jobs:
         plugin_topics_limit: 0
         plugin_topics_mode: icons
         
-    - name: Detailed display
+    - name: compact display
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.achievements.svg
@@ -81,5 +81,3 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_fortune: yes
-        
-        
