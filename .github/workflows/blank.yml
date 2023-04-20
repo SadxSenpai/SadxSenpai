@@ -43,3 +43,24 @@ jobs:
         plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
         plugin_steam: yes
         plugin_steam_user: "76561198132876294"
+        
+    - name: MBTI Personality profile
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.16personalities.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_16personalities: yes
+        plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+        plugin_16personalities_sections: personality, traits
+        plugin_16personalities_scores: no
+        
+    - name: Icons
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.topics.icons.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_topics: yes
+        plugin_topics_limit: 0
+        plugin_topics_mode: icons
