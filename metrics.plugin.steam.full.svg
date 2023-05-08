@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            5.90k hours played
+                            5.91k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        28 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 50 achievements unlocked
+                                            22 / 50 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwQGAAUI/8QAKhAAAQMDBAAFBAMAAAAAAAAAAQIDBQAEEQYSITEHEyJBsTJCUWFxctH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAIhEAAQQCAQQDAAAAAAAAAAAAAQADBBECMRIFFDJxQVGh/9oADAMBAAIRAxEAPwAegoqxuotp64aWt1S1gkOEDAPHFXSC8LLmctE3MfEvLt1EhLirjYk47xk81UdPO7IlgZ+9fzTwdRsolYOLQoCMFsh23Q2lSMPBPpyoHkYycD37qbmfHS1xY4dsk/X6jTUXhVdQti5cX0a+ywBgvtvhwIJ6JGfmi+RsXo+4LT4HPKVj6Vj8iugXpt6d0zqOOtlF+1t3vOtgsqLxG/cSSTyBzgd0P6hWFxLoODtcQU/rn2o4Zcrv4SyGQ3RGioUW4UxzOD0tece3NL2jGxe6btRKJ85pl4uWwKj6RjHOD1knigi2fXbubkcg8KSelD91vI6ecsFhyzu3mSeSnBI/gjo1CW047hTZoq/T5Lcdzk4LBSfqrUFlDxL8FHNuIXtA3A8AKO4gnvP+0Wyj3mR7390fNZJyyZG7cuXnQHHDlW1sgE4qBcvtKtHEIcKlKUkgbSOjTR2i3gBls79pJsnuHLHiNel//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACoQAAICAQMCBgEFAQAAAAAAAAECAwQRAAUhEhMGMUFRYYEHFCIjMjPB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACARAAEEAgIDAQAAAAAAAAAAAAEAAgMEERIhQVGB0eH/2gAMAwEAAhEDEQA/AI9sW1UbW1xTWIneVncEiQgYB4401UfANOeCKe0IqMEv+b2bLKXGfNVGWI+cY1g/HUC2I64khaaKHuzvGoJ6gvPTx7nA+9O1eKxLsW4eIbhinu9xVSOVeoRgNgnp8hjgAHgAak+QDha69YvGxGfxL29/jWvSkuwVnitPWysrVbBd4seZKHnA+xqZblQm2+wYpwOeVdf6uPcarO7brA+61L+zSSRWZVWSSNAcxS+R6T6gnn70B/JUQWt3ux2BYEVgRFcdtmJDAD0GQfo6LX9FCWEAFzekK8F7mdtED9x0iYyRStGeQrevHtwfrTntu9LskEkFySaZ5VeQMv71bPAAzwQRk5+dSGtYevJ1Rng8Mp8mHzo/T8QGtGqJOe1nq7UsXWoP3/zUp4i/kK1S2Ihg+lRBY2i0ZljoGK8g4WP+Jo2yfUcYHqT6aTPHO5/r4mVZmnSARQrIxJL4Jyefck6xbj4llvGTuWQiyHLrHD0Bj848/vQe1YierIiyFnZlOOkjyOkghc07P+p7ltsjdIxx5xjK/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fairly competent</div>
-                                                <div class="unlocked">6 May 2023</div>
+                                                <div>Sound off</div>
+                                                <div class="unlocked">7 May 2023</div>
                                             </div>
-                                            <div class="description">Have a survivor max one of their skills</div>
+                                            <div class="description">Destroy an Insect nest</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAqEAACAgEDAwMCBwAAAAAAAAABAgMEEQAFIQYSMRNBYSLRBzJRUlOhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBBP/EACERAAEEAQMFAAAAAAAAAAAAAAMAAQIEERMhMhQxYdHw/9oADAMBAAIRAxEAPwAi6f2ehb2qKezE7ys7gkSFeAeONaDZui6G77hFTqVnM0hwuZmxnB+2NQuh4msUakSwTT5lfKRDLEZ047DXo7bBBNVpNBNHKG+pvVZP3DuU8Aj25HxoiGiNt1tq052Hy3ZCdjpKiK5Y1LMAcN2y95OCDgnB4ODwdYfdNvn22yYbAHPKOv5XH6j7e2urd4nr7jVWq4pxTNn0xZiD9oyfC5APnPv58aCvxDoHbqc1aSZJ2WVGDBGUryfZh/moM0SK2qM67ZfdlR7BbavtsQV3C97BwjEZ58HW3q9ZyQbbMqMI5GKxQwoMLFGOWPyT4yefOiatYevJ3JyDwynww+dWIuVzg+q6+/aUJxqkHGfJGCzMPB0x791BUtWm2+86ipZgSWCb+FyOCfjRh1JYlkpTxzStIY5EUZYsBg+3xqDNuccojD2GPYgRfoPAHt/eoty1FJUkjSQszMpA7SPB0YA6TYTXLfUPl/vHpf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUEBv/EACkQAAEDAwMDBAIDAAAAAAAAAAECAwQABRESITEGE0EyUWGRBxQiQlL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHhEAAQUAAgMAAAAAAAAAAAAAAQACAwQREkEhUfD/2gAMAwEAAhEDEQA/AB6x2qDKtbT0lpa3VLWCQ4RsDttV629FtXJEhcG3SXkx2y66UOKIQkeTWToWGu5IgQWlBKnXljUeEjOSfqmpiU1Hhu2m0vLt0CF/JxzGHpbwGRz/AFzjJ88DapSShnjtbK1N0w5dIVT0zAkBxthl5LmkkKS4VEY84PNcfcoD1vkFp8DfdK0+lY9xTMzFkx+qVSGIyv1TJ1JLeDpSVbEAHO1cp+UmGYs+6xmEpDTclKmxj0hW+B94otkDjgSy1nRs5H3indBXRNqmW6UsjttvLCz/AJB23+81fj3pyNfkpXKdTFD2VIKyUpBO4xnjf6oxjPrjuakcHZSTwofNUROaOD3Vjb0qSTj4zSPiDjqaC06JoaOjqaXZ9usdkjSZcZlU4JBB0juOLHnVzj59qJ+pri7ckTJMhWp151K1Ee+axP3MP6e9KcXpASNSVHAHiskmQ0qK4hDhUpSkkDSRwanXgMQJcdJVbt0WMa0Y0fav/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Planting juice</div>
-                                                <div class="unlocked">6 May 2023</div>
+                                                <div>Getting the hang of this</div>
+                                                <div class="unlocked">7 May 2023</div>
                                             </div>
-                                            <div class="description">Plant juiceleaf</div>
+                                            <div class="description">Survive 3 years</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+20 others...</div>
                                         </div>
                                     </div>
                                 </div>
