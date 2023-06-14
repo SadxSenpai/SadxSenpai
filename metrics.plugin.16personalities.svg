@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="448" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="461" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.people{padding:0 10px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,7 +22,7 @@
                             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                             <div class="explanation">
                                 <span class="title" style="color: rgb(51, 164, 116);"><span class="subtitle">Turbulent Mediator</span> personality</span>
-                                <span class="text">Turbulent Mediators are Introverted, Intuitive, Feeling, Prospecting and Turbulent. These rare types are often quiet, open-minded, and imaginative, applying care and creativity.</span>
+                                <span class="text">Turbulent Mediators are Introverted, Intuitive, Feeling, Prospecting and Turbulent. Mediators are poetic, kind, and altruistic people, always eager to help a good cause. They approach life with thoughtfulness and imagination, guided by their principled version of humanism.</span>
                             </div>
                         </div>
                     </section>
@@ -37,7 +37,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Introverted</span> mind</span>
-                                <span class="text"> Likely prefers fewer, yet deep and meaningful, social interactions and feels drawn to calmer environments.</span>
+                                <span class="text"> Mostly Introverted. Likely prefers fewer, yet deep and meaningful, social interactions and feels drawn to calmer environments.</span>
                             </div>
                         </div>
                         <div class="category energy">
@@ -48,7 +48,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Intuitive</span> energy</span>
-                                <span class="text"> Likely very imaginative and open-minded, focusing on hidden meanings and distant possibilities.</span>
+                                <span class="text"> Mostly Intuitive. Likely very imaginative and open-minded, focusing on hidden meanings and distant possibilities.</span>
                             </div>
                         </div>
                         <div class="category nature">
@@ -59,7 +59,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Feeling</span> nature</span>
-                                <span class="text"> Likely values emotional expression and sensitivity, prioritizing empathy, social harmony, and cooperation.</span>
+                                <span class="text"> Mostly Feeling. Likely values emotional expression and sensitivity, prioritizing empathy, social harmony, and cooperation.</span>
                             </div>
                         </div>
                         <div class="category tactics">
@@ -70,7 +70,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Prospecting</span> tactics</span>
-                                <span class="text"> Likely very good at improvising and adapting. Tends to be flexible and values novelty above stability.</span>
+                                <span class="text"> Mostly Prospecting. Likely very good at improvising and adapting. Tends to be flexible and values novelty above stability.</span>
                             </div>
                         </div>
                         <div class="category identity">
@@ -81,7 +81,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Turbulent</span> identity</span>
-                                <span class="text"> Likely self-conscious, sensitive to stress, success-driven, perfectionistic, and eager to improve.</span>
+                                <span class="text"> Mostly Turbulent. Likely self-conscious, sensitive to stress, success-driven, perfectionistic, and eager to improve.</span>
                             </div>
                         </div>
                     </section>
