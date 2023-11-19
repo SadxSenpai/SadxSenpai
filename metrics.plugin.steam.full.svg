@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        49 hours played
+                                        53 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Nov 2023
+                                        Last played on 18 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,7 +160,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 36 achievements unlocked
+                                            17 / 36 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgMEAQIFB//EACgQAAIBAgUEAgIDAAAAAAAAAAECAwQRAAUGEiETIjFBFFFxoTJhkf/EABgBAQADAQAAAAAAAAAAAAAAAAABAgME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECERIhMUH/2gAMAwEAAhEDEQA/APH8xrJYY1pqfpFhCqynaCsgKiyEfVjz75xHpTSOf11LFVUpjliliDpGJTuUEkDixt4OKmZVIbUc0dtqSQwunHvpLfDnRUNdp7JHzemkaQzszxU22xCnt7Se3k7T49eL44rwgq6zXrCurNF6hoaWSqqTHFBHEzsplN2A5NhtF/WM5LWSyWo5umLxMsJIG2MhSSoH9gfrCfV75hqXJxmFZI8fxirvTlbllF+CVsLC5bkfsYEZZJv1XRUyqWC9Rmt99Nrf5hucHl1DjNc1i+WyT04ImiSMrwQeEXjnCzRshr4oqaa/xDvZQFC2JU7gTbuFyBY3HOB+avNRZnDMjCQTQRtsVr3AULzbwbjHXyiorpqWQ5fNAEiCjpl1WQc+CL8jk2OLNXBD2zt6himp6dYYnhjop1lMhcbukIFvtPHbe4I22vcYOQUD5Nm4NRIstS6rLuQHnfFvC288BufxifOKiuhy54swqKfo1Zu8SurS3BtawPAsBf8AAxQy2oqc11HHVSvEskUX8d20bVj2Dz78YhKoPeh6f//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Circle of Trust VI</div>
+                                                <div class="unlocked">18 Nov 2023</div>
+                                            </div>
+                                            <div class="description">Complete Path of Trust chapter 6.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -174,18 +184,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABgUBAgMEB//EACcQAAIBAgYBBAMBAAAAAAAAAAECAwQRAAUGEiExExQiQVFhkaFx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIREiExQQP/2gAMAwEAAhEDEQA/AOP5jWSwxrTU/iLCFVlO0FZAVFkI+rHn55xj0ppHP66liqqUxyxSxB0jEp3KCSBxY26ONXMqkNqOaO21JIYXTj58S3w40VDXaeyR83ppGkM7M8VNtsQp9vtJ9vJ2nr46vjivCCrrNesK6s0XqGhpZKqpMcUEcTOymU3YDk2G0X+MVyWslktRzeMXiZYSQNsZCklQPyB/MJ9XPmGpcnGYVkjx+mKu9OVuWUX4JWwsLluR/cCMsk36roqZVLBfIzAffja36w3ODy6hxluaxCrZJ6cETRJGV4IPCLxhZo2Q18UVNNf0h3soCheSp3Am3uFyBY3HOB+avNRZnDMjCQTQRtsVr3AULzbo3GJfKKiulpZGy+aAJEFHjLqsg56IvyOTY4s1fzQ9sR6ho5I3ny+hdBCafz7ZVvvEaltice3o9W6wOy2mOXVtPPO4eomjWchQbqXjLBD+bEHj7xI5jW5hRejqayppt6MXSMOryBr2sVvwLd/7iJymWozLUYqpJIxIvklK7goF1I4/YGISqD3oen//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Circle of Trust V</div>
-                                                <div class="unlocked">10 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Complete Path of Trust chapter 5.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+15 others...</div>
                                         </div>
                                     </div>
                                 </div>
