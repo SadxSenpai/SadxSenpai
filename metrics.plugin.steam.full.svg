@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            6.72k hours played
+                            6.73k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        24 hours played
+                                        36 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Jan 2024
+                                        Last played on 8 Jan 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 100 achievements unlocked
+                                            18 / 100 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAgME/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDEQQAITEFEgYTIkFhB1FxFyMygaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUA/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxEhMf/aAAwDAQACEQMRAD8AgnSOmPkyxokbySyEKiIvczE8AD3On79PMnEx4mzZ8eN2YK0cQMrRmx6SdgTyKBO9C99YeB1iwcDO6pKzp5DwY6upoRmQs3eTRquwAGuTR2J01P1bGyFONLMsOQLSWFnplo7kDn5AF1t7gan22NuCUq6webkWuq+AZY8B8rCzcPPChW8uNSjsGArtB5O4ocnjnbU86j0/y+5gOCQduD9tWgZCwywxTMBMxavNpUgYgk38sLNcD1KDsdKf1ChxZepxZmF2+Tn4wmYrVNIDRYVtuCt/IOtVaT7AyAib/p9npBhZpZciSpIpFWKNiGYK4A7gDR39/wA67p5soiASRTiTGlWdch0eQPyDVJYJFg3X8vc6nHhrxBk9KnQwzTiEOHkhjmMYkr7kaN5vWZs7NnniysuCBnuOIzn0D+vmzWiyMGPORlZWX2H+oyNmDtk8yOOQU7JizE7/AGtQAQdx7D8EjQnxJJFHB06KMMohjlQBgdha9osgWaGhqdROPOmRM82Uu9o8x54BqwNAc7Ndx+5LI770GcsFv2H+aKIdiswE/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAApEAACAQMDAgYCAwAAAAAAAAABAgMEBREAEiEGURMUMUFhcSKBM0KR/8QAGQEAAQUAAAAAAAAAAAAAAAAAAQACAwQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAAxEiMUEEEhMhsf/aAAwDAQACEQMRAD8Aglrt/iYd+NHrZa4qioigUNhjlyo/IIBuYj5wDj5xrmlj2woAB6c6NdP2SrutQ8tLG3gUI8xPMHCbAo3YBIILkA4GD3Ixqk78kzSChRAdTRrFJLBPEUlibBVlwwBGVyO+CP3nQS5W7wwXUcfGnG/WattNYTXrnzZM0c28PvB5wWAA3AEcYHHpxoZUR74XU49OONBLAQCDkRMoYTf0vaKnqCeOmo2SJBjxaiU4jiXnkn3PBwo5OOwJFAvxtHRlkqJaOVqmeopWoKWnZgfyYAyO2P7HhmY+gCqOMajHT9+qraSKaTAJDbWY7dw4DYHvgkfR0yw32Cojka5Q+PUyP/IaOKcInACozsCBgZPz+tQ20u74Jwv2N7gVyN4/0d1oesOloKarRIZYtsUq7gDE6jCupPcAkd+R31O7rA9ullhnZHwMpKhysi+oYfojj2/w6y3C4xFUe30/k5Q+d6wRRBl5GG2HP18nQO63KeeTM0wcgYAXIH3jvgAfQ0KOlNLkIdJ4h8un3vP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Capture Novice</div>
-                                                <div class="unlocked">7 Jan 2024</div>
+                                                <div>New World Settler</div>
+                                                <div class="unlocked">8 Jan 2024</div>
                                             </div>
-                                            <div class="description">Capture your first monster.</div>
+                                            <div class="description">Establish five camps.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAQT/xAAsEAACAQMCBQMCBwAAAAAAAAABAgMEBREAEgYTIUFRIjFhFCMVYnGBkaHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIDEQAhMWGhBFHw/9oADAMBAAIRAxEAPwDE7ZQtIyRpG0kjsFREGWZicAAdyTphbuFZnpL9NW4iW14gYRNu5lQxCqgbwpOWI8YHnXOB6qKz8Q2u5VETSx0827aOnqKlVOe3qI66U0EVbDRX2glkEMcNdHPNTMmXIZwdxb4wvweutc0jI4QaDTs0fucxxqGUueehhuu4ZeK32OooyJUueYQJWxy6hSVZCfDEZUnyQfbOidyt7IXV42jdGKsjjBVh0II7EHWh3X61LXRQpIKhJK2SSmpUQB12ueob53HP6DUbiCq/GK+suJgMP1Mm4oezBQG/sHT48jSOYzqBfRofcYSoEUOOOxeeS0MjIFYKwYYYHuNIay5T08EcswFRtiNKJiepib2V/JUkFW/Y++dArXXbcAE51Sr6rnUis7ZVAfT19/Ix3/3V540mj1FkbZOFjHJvQO+KYpeenMj+2giWnEv5ABnZ8sc5b+POpV2lRQQi7FHQAdhqfR3Odqf7kmVGAoySPnGe3sNT7nXbtxzp8dI4o7QVfvfCcu8lMdvW2f/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAAnEAACAQMDAwQDAQAAAAAAAAABAgMEESEABRIGEzEiMkFhFCOho//EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAEE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQMAAhEhMRJB/9oADAMBAAIRAxEAPwCDbbt907kg+L50yNtu0000lO++bcrxMVYmGotcHIv29Z0cKdmNHPGNrB2tfiDgm30M6pEXQ+0vU7lN1OX7FNVvCZ4P1FrRJZ3YE4bBCgHJOl7GgHcZCmBrsnpo9nndUO+7YpZuNzDU2H+XjSxuu3GnkKsqhxy9puDZipz9EarXUPQG1VUO2xdOTNT0FRO3fqph3m4LC7s4a4IC8SOB4+rU/wBxZaqpVgpDVCJWeziFDx2YfV3DY1KtBsPMsUFgRfsLdMsJ7jswTAGPl3Ylf0ksDa4OTjTNV9QTxVKoiPxnjV44XijSRmB4gFPC2VQbk3tbGpdsG9zUBIh4+oqxJYj2kkePjJuNGotwleR5StGxZ+4A3I8G8m2cC+beL6C1Nzcn5NKWpNK5791De69Y7rDW/jiWlkpZo2i4tEAjIWKnAtk+DjN9L61hqRV1MkcETluHGFSq4AGASTrkr+7NOlQ8kOL2UlsZv8nx9aF1FUYY5UD8i7lzYm390ZSiINzKDPmf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Clutch Claw Neophyte</div>
-                                                <div class="unlocked">7 Jan 2024</div>
+                                                <div>Bosom Buddies</div>
+                                                <div class="unlocked">8 Jan 2024</div>
                                             </div>
-                                            <div class="description">Study the ways of the clutch claw.</div>
+                                            <div class="description">Raise the proficiency of any Palico Gadget to level 10.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
