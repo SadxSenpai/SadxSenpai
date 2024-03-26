@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="397" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="486" class="">
     <defs>
         <style/>
     </defs>
@@ -127,15 +127,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABQYDBwgEAgH/xAAxEAABAwQABAQEBQUAAAAAAAABAgMEAAUGERIhMUEHEyJRFBUyYRYjJHF0JTRSU8H/xAAbAQABBQEBAAAAAAAAAAAAAAACAAEEBQYDB//EACARAAICAQUBAQEAAAAAAAAAAAECAAMRBAUSITETIhX/2gAMAwEAAhEDEQA/AMz3i5P3KX5j4G9a0BXvG7W5fL5BtbLqGVyXOALWNhJ9zQ5fp5DpVzeBmDxpjTeTz3CtDTpSw02SClae6vcUsxusZkrvhLBs1sU7dHzcJQUf7YlI1+1e7JgeKXBP5keYhQ6kunVWzkuRRrPEHnNtreXySgp60BayZqQpDj9rLWuZ4UgAimJhBSRmDUeDeKORvMS1M2OZHnGq28WsLtOKWq2vWwO+e+8pKytWxwgcq0Tj2VWWQ4mK60prj5JKj1Ndlyhx0uqjSoseRHUOJKXGwokH/EnoaQOY7IyeiYb4jo/euq3TXYUxp9rXGD3FOfjLirOM5Uv5ay4m1vgKbWo7HGeakj9qQhzP2ovf1B8OIcwm3RrzltrgTuIxpDoQ4EHR19q1pGRHtMH4dhlDEKMnsAAQP+1VGDeHsO1SYc2S6XrnHdKwtB0gjsNe9NedXNUgsWSGoh99X5hB+kGmziGiljxAg9uazOmy8inI86DE2GWvdQoM74txZyZCWLUWlNj0kgECpMztgeuNnsTM1EZjY81A5FWxzpjVititUF1pqOCVoAUVaJP3qJbcBLzQbfdY3FeojwMzjXZC1hnyZLJ4hrlzq5rJe28gxxp5C0iSyNa78qz5llpjw23E2ZtYUr6+fQV3+FuRP2mUGZKj5CzwqBPSgqtyeQ8kvcNI4X4Wr+h4Y8+KdqaynGn1JSr4mGkrjNJPqWvoazXwqQ6pDgKVJPCQexFagu80MOl5kjy3B6D2BqgvEFKE5S8UIACkpVpI0CT3qcJliCp79E0HCnJiQnZTg9KQeAe5pQx2WH7pIucknzVqKQFdgDU5nqnBDDY9KTspqK92l23ttymAfJV9Wu1RdUzrX+ZdbAlL6oCw+ybKUQrg+idxq+OZ0UcKtVHPvjrzSGwragkCgbj4DZWpX08zul2TlDLcrykJ9HdVU6i68YxPSrX0G1n6uezCl+kKEV1KVacI6dzSpj6XlPOrUVcuh33rnlOS580qSVEb5a9qO2xhxtlDCBt1Z6d6mcfhVwX2ZltR/S1f3xhVjnapztwsq23Fca2dnY7UlXtty7yFBC2jr0k8PNOu5NWHcIZtOOIgMcImPjal6+kH3pZm2e02KyfrZ6ZFydJJLStDR7aqyr5cBmYzcChub5+QnapbMSCuXxbSnoasbE59tvuOKavTzcdp0lKVK5VQcq9fLoXy6RDeSDz2T70QseZ2RiGmNdrZPfbSdgMvBNGw5Di0jJYa25p0ZaE7w8t7hWhjJIXlq6cj0pcd8JrWHSpWRwif2NDBnGAjrjt93/MFROZpgS0kfh6+A/zBXFdOqeSyv3e69QLe8Q7+BbfGSEt5DBCOm9GprVabPYpHx0y8xJTrfNCEDW6T3cpwZZP9BvWj0HxYoTc73ijyf0dpubah/skA0hp19ifd7ypVTgRnyPIo7y3n0yEuK7cPt7VW781yVND6yrkeXEdgV9mSrc4hXw8WQhzXLiXsCuSO05LdbZZQovE9u9d+5Ve9z//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABggFBwIDBAEA/8QALhAAAgIBAwMDAwQBBQAAAAAAAQIDBAUABhEHEiExQVETMmEUFSJxFhcjJDOx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAQUAAgMEBv/EACERAAICAgICAwEAAAAAAAAAAAECAAMEESExEkEFE1Ei/9oADAMBAAIRAxEAPwBVwSDzrKNGkkCIOWY+Br6NGdwsY7mPgAaK9obby8m5MeFoSA/UB5ZfHGp3KswUbMwsbA3FXwYysuOm/T+p8faPnRH0l6druXIWTnYZoaUSBlPPb3n4B0zUS/8ACjhmVGQRhWjI8cj8aFuosFiLbMv7UiwgDl/pDtPH41bUVrmvafr6J9yoOrfTKtt+tWt7ahnlruxWRS3eU4HroIw+w9wZfGzXaePlaGMePH3fgau/pjavJQlbIf78J8BJv5f+6syhPWMKpTVIR5JjUcDU1uGzLfHJqP8ARHuJDary1Z2gsRskqngqfUHWskk/nVhdUdt5f/MrTChIyyeVKLwDoAngkrytHOhSRfVT66rGVbh1BHuEnTWbHQbxx8mWAEKyAgt6A/nTcQrX4SSCKLgjuVkXg8e2lk6ZdPrW4xDlHsRw0o5CCGHliPYaY5z+moFAD3RRBQR8AasOoo+RdWcAGQGW3Ffv5Y4rbUX1Jh/2zEcqus16abmysR/cc9XWOT7kAI40IYLKWMTtrMZCmwWxLI6liOT4OuPb25s3kpHktXJBEg54BI51mSxOhHVGHXUo0Bv9h5/o7fqQqkObjAB58E6H8rWzex7cLXJxcpO3H1UHAGuPZm6Mja6hUq6WpGqyv2OHYkcDRRkKNvqBlb9WWwkGPrEhYz4bkH151UsynkzSyhHBDgSWx+VguojTpE8jKCrMvOl4622cRZ3dI+I7S/aFlKfbyPbj51aWDmlrvPQmYOa7FVdfgeNVl1D2VNWe1l688bV+O5kA8jWx5GxEuMgpvKsdfk7OlHUKLBUosLdrPJBJKWWRTx2k/Or2szo1BpS/ZG0fdy3wdKxsDHVMluinWvy9kLOPfju/A0ymciI29YgiPKrH2L588DQBmOfWguAHBM0dGKlbI1snWtRpLE0jcA8fOrHj2LgvpMv0CoPqFYDSoxXLVKd2rWZoW7iOEcrqeob73DQAEVwt+H5OszWxOwZ6XwPGjGFqbOwmFuG1SrFJvZmPPGqf6r2pcBu2VsTYaF541+oAfH965a/VzcqcrM8Djjwfp6DLtu3msi81hjNYlbk/jQWtg22hA8eT6h/gYhDTRjyZJP5MzHnknQH1A3rHLWuYeCJv5L2tJz4Oj2pylaJPtKqOQf61TXUSjWpZ+QVpOe8BinPJBOtSYgxwLbiX7gzBM9edJYWKyIeVIPpoz23vbNHN1RJKZkYhCh9CNBHodbIZXgmWWFuHU8g6rGNlS2DRG4w2W2zUdVtiM8SKHbg8AE6hzgaPJJR/77tAdnqRmbGE/QOyAkdpcL7a92XuloLDplZ+YSP4lj6HR2ZwrXlIp23UOhgKHA4V+Pnu110sfVpyFoV9vuPnQNvXdUTwRRYiyGPce9l+NQGP3jkqdN4A4f3VmHPB1NmH68ixOWkhu3cuRTNOscnYI/QD30IWrMtqdprDFpG9zr23YktWGmnbudvJ41o1J3VoEE//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Command and Conquer 3: Kane's Wrath</div>
+                                <div class="name">Good Company</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Strategy
+                                        Indie, Simulation, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 24 Mar 2024
+                                        Last played on 26 Mar 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,7 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 0 achievements unlocked
+                                            9 / 76 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQf/xAAvEAACAgECAwUGBwAAAAAAAAABAgMEBQARBhMhEhQiMUFTVGGSk9EHFTJRcYGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAiEQACAQMEAgMAAAAAAAAAAAABAhEAAyEEBRIxUXFhkaH/2gAMAwEAAhEDEQA/AEbs+UGQuRUZ7aV4ZniRIpGVEVSQFAB2AAA6DQudnfer/wBdvvqz4OirPlM7JcVjFDLM+y7b78wD1/nTEvE2BSFpu7MYlkMTNzR0b9v06ZePQWfqqtZu2psXSicQowJBn8qE52d96v8A12++iU7OS/MaUN+zaeCeZImjmlLJIpYAqQTsQQT01dwcRYOU1h3Zx3jflgSKSwHnt4f989YH4gQwwcTYla2/JNus67/EqdBCmViMUum3fU3biq3EqSAYBnPunuFLqU8tmBNWNiOexNCUDbeb7+f9a2npY2SPtHF2ih8fSyuxJ9duz1Px1zHOY/I2L9yWlDcKvM8sUkKv2XUkkEFehBBHXWF3fiD2OX+WXQoQ5nPutGq2m5euFw4g5yoPfzXbVp42HsE4uzsp2UNZX16bDw9N/hqP43vLkOIsTOsRgU3IEWMnqArKNQXd8/7HL/LLo+JoZMZqhNbq3ViisRyPJNG4VFDAsxZugAAJJ1PFRJnMeaWxtFy06sziAZwoHVf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Level: Rising Markets</div>
+                                                <div class="unlocked">26 Mar 2024</div>
+                                            </div>
+                                            <div class="description">Play the level 'Rising Markets' and earn the first trophy.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAACAwUGAf/EAC4QAAICAQMCAwUJAAAAAAAAAAECAwQFABESEyEGMUEUImGU0RYmMkVRc6Gxsv/EABcBAQEBAQAAAAAAAAAAAAAAAAMCBAX/xAAhEQABBAIBBQEAAAAAAAAAAAABAAIDERJBEwQxMoHBUf/aAAwDAQACEQMRAD8ANu27EFyeGCeWKGORkSONyqooJAAA7AADUPt2QIJjmvSkeYjd2P8AelkkaTJXFjKq3WfYsNx+I6ZDishkamRq12r8lSKXmz9FR75G3JjtufTW5zmMYLrS5Mszs+NnkV1cjfMvTea9FJsDxkZlJB7b9zq4yFa5i72Jq5a20hyDbNXaQuvDkoKtudjuCe3lqLEeG56aVbXiGGWOpTg3KiQETydRisYIJ3B8z8NZ7K37V/xrSa3O8gFiJkVjuIwzglV/QfDRB/K6m1Qu/lJIZCDhLeWvR7+9LQwzUI8pfTIVZZeU78ZIpeDJ7x7bHsdC+L8hS+z0+Nxocw7x2JZJgA7sX2A7eigfzoXOVLk72J6VU2I3kaVGEPUV1JJBU+R7Hftqh6OVP5S3yJ+mr4g8hwd+bRyxTOfbAPve1a4aQmpRQOSgrMePLsD1W9NAyn740v3oP9DUPRyvpiW+RP006jUvDMU7NqjLBFFKjySGAxoiqwJYnbYADfvpMcbJI2o6fpJWT8jl/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Rising Markets: Avoiding the Reds</div>
+                                                <div class="unlocked">26 Mar 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
