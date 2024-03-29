@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            6.98k hours played
+                            6.99k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        18 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 28 Mar 2024
+                                        Last played on 29 Mar 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            11 / 37 achievements unlocked
+                                            15 / 37 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEBREABhIhMRMyQRQiYRUjkUJxgqGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIABAX/xAAiEQACAgIBAwUAAAAAAAAAAAABAgARAxITBCGhIjFhwfH/2gAMAwEAAhEDEQA/ADPZoqoLLEOpVIr9OlfTaWk2AG53Fz42xCaqtXrUl5mfmCoOQG0BTgRZKVXv7VkEEA28XuL8YlRZTEllLr8wx1NJSG1dFS+B3BQ43/zDVLkl98xkxY0uRLdfPqSzocdsUkggi4B1ccbYymZ2ykb0Pf4r6l6lXGDrZ8xSpZir1IdRFh5gqDUdOsIbSfY2Aq2lKiSVAfPxzhyn5hzKK1Bi1Kr1FaH03U08sWUkjbbAKxGeh1ZptyPFjLQW3ESEM9dSRZZ4SN7FJB5H4xMjLhR65CmfVzOccd+4tbZQRfySfxiYch3FPY8QOo1NrRhkT1I6T/RZdX0ElId7UrI7yPPF7fOL1FlqYYYmtsBx55pa9b8gaiXCkqOw27fA4xlo7UeZS20pqNPacU0EFLz5QUEAjcWx3mWE5Wae0zHeopMcApDEvUvSBuACkfvYYc9Mr7rkHpP7BzFdCh7iVsxzJDsZyWuzclnSttcd63S030gD+R55xn4MwVLMMR52Oyhfc5002StY/WRwOcCoMdbFJVHL1KaS4SSp9/Ssg8bAH+8EpsNqnT2HV1KnvC+mzLxUbm3iw22w64VVkGNaAi8hIYue5n//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUH/8QAKhAAAgIBAwQBAwQDAAAAAAAAAQIDBBEABSEGEjFBURMUFSIjQmFicYH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEEBf/EACYRAAICAQIDCQAAAAAAAAAAAAECABEDEvAEUWEhIjFBcZHR4fH/2gAMAwEAAhEDEQA/AIHU2+itfkber1eOnTFpUhCuHj7lQDJIIbn38ai5H1Pu26S7dT3HdNyjjRHmDOkKYkjV1BIOf5Y584OliheD7dcE8TTLbrfaFhME7YwwYFR2HnK4ySfem/pHedws70bVDb5WgdkgtRxuHK9sSKrcquBhc8nGc65eXiEsq70PWuf1Nq4mA1KtmUW9n672upCn5Weig/THH92Cg/xD4wD8AnS3tPVG/wA+9Va9ne780TsySRySAg+iOBrqd3fN5njsRRVqZiJ7HijspNMV+Ozlc/1rjE9qrD12ZU/brrMEJI7QD2jPHrnQw5lbJeLLqWx2S2VtPfSjzmn0/esHcqxrUIbkklYNhwSUIAJdQPJOPHPk6M6s+nDulaWCF6kd6ECSGBmiWdlIIU/JwxGlqlDVtU6jjdaVaaNVI75zGyMuRg8aJs1bFi41871Sv20XIH3f1GAA9BvJ/wBc/GmyMrNS2Cev5vzkVgwU6qM3e3Z45aiJThhjk71Z7C/T5AzgYBYY9k+/Wld6wg62eGR45lEplBBLAfAyfOPH/NDx13u2vyE+4Uo5mfvIsT9vdxjleeCPnnVtWBKm6x2ptz2+fuPbiGYsR4wMY8DGnjRiVLD334dKgYqoNHfzP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Springlands stargazer</div>
-                                                <div class="unlocked">27 Mar 2024</div>
+                                                <div>Mole of the Revelwoods</div>
+                                                <div class="unlocked">29 Mar 2024</div>
                                             </div>
-                                            <div class="description">Reached an ancient spire in the Springlands.</div>
+                                            <div class="description">Mine every valuable material in the Revelwoods.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAgP/xAAqEAACAQMEAgEBCQAAAAAAAAABAgQDBREABhIhMUETYRUiJDI0UXGhsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIABAX/xAAdEQACAgIDAQAAAAAAAAAAAAABAgAREiIDITFB/9oADAMBAAIRAxEAPwDrL3ZPj0qIW7z6SfAhIFReI6/cjU3cr3f5dqq3GVfJbWjwnyN8ayWz2i47YAefXrOgaU2q9CPKoOEr0CposyhlyoIyQQQR2dHbykxrlt6LUnqUqyaNSZFdWVDyAxxZQoXGB67OuWGLNybHr5N+IVU19grXvc8WxRp8C+TRagOBNKryEds9I5PY68evWTjW7Nuu+y7vEo1r5OkUKpKuj1AVIx9Bre1pUa2bekvb1NSpGp05UhnZWPNlxxUFSuO/fY1N2u4NU3NRnT6ic6lXlUcKEXJx6AAA60wxVk29gIBDdQ6rKNWlSdsDNJGb+cdn+s6YbmsVyu20NtVYEb5KUeKxqsXVQnZPfIjSuDTiyYEc/aFtRwqZpyKxT8p7VhjPf09HTTedxuO5Y4/EWQmkWYJBmtyKkdji2OQwPHnUvEUZ2qTPkqi5wsNmn2naN+afQFNZFJTSIdXDjzkcSdTu3wHvUYVAGUNywRnseP8AdNdqzJltiP8AHJta/IR+sksCAPGFHgaHhRqMK6U5LXC2urufuR6xfjk+Ox40sCzK1Q5UGFz/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAQL/xAApEAABBAEDAgUFAQAAAAAAAAABAgMEEQUAEiEGMRMUIkFhQlFxgZGi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUBBAb/xAAkEQACAQMDAwUAAAAAAAAAAAABAgMABCEREvATMUEiUXGBwf/aAAwDAQACEQMRAD8ANJ6ryLCGUt5bINp8BB2oWCO3yL0nnHOoji3ZeQys0xkgFUVbwStSVGrVt5A5HB55PatQMRkGfM4+VMvy7S02SLB2pUR+TfYe9aY6m6oTPiOw4DLg8xQcddG2xd7QnvXHc/Oszd3Nx19kZ9OufindvBF0gzDNExfUUnHdOPSZmTnOIFFiKHCUtgq4IN974HsBZ+2lsf1Rnn8/FZezE9cZ8WWXHdwpQuia54I1HzbQXi40ZCdqnFJbF99qE8f0m/3rI77LGbx0hxYDannEpWT9CdqEn/J0zWR0Mak96oFVbeQKq4F+NPPlZcdwhEdUghF2pw7UkgD7JHb3JVqUiKRIjtyWyjxnU1vG0hCbKjXtfA/R0bAZBEJlLrEnGqXIYQwoPPbFsqF+o8dh3I/Gu4L0FiY8864rIy2rIKHQpFAXuCjRUavRiAKwx5OfvmlQZSQc+1ZnkuSJcOO0r1BtSgpYoJBPKj+AD/NS4Ulqb1JFS2kKixwGmQRdhH1H5JJP71RcmoyrgWtyFFZ2hBDrobWod6PB9OhL8ujMsSzNx6rHhqDL+4k3waAAGjaIvIHPYc15+0KuEj2+TX//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Well done!</div>
-                                                <div class="unlocked">27 Mar 2024</div>
+                                                <div>Springlands secret keeper</div>
+                                                <div class="unlocked">29 Mar 2024</div>
                                             </div>
-                                            <div class="description">Cleared the first elixir well.</div>
+                                            <div class="description">Read all obelisks in the Springlands.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+9 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
