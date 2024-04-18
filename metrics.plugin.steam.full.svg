@@ -127,15 +127,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAAMAAAAAAAAAAAAABAcFBggCAAED/8QALhAAAgEDAwIFBAICAwAAAAAAAQIDAAQRBQYhBxITIjEyQRRRYXEVIxYzUoGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAgEQADAAICAgMBAAAAAAAAAAAAAQIDERIhBBMiMUFR/9oADAMBAAIRAxEAPwBPESFmEnOBnAqY2tt1dzTiAaxa2s5PasLqe41FO6BWMRKyD5bkUVse1W46h6B4HcJHuMM4OF9PtT1OieK+OmM5Oh2ovBGv8xagE8koa5vui30kiwXG5LDvPJXtINPR7i9s4GtxEs4YYBUDisk9Yb+9m35dOkt1CEjA7RIQM0NVSBwwuW2MIdE8FWk3FYsjcDANDz9JY7HvubnU4b23iGSkOQaT9hunWdMkRoryWVFOSrMTTO2PvODVvEgmErXMgx2d9DOVjbxIW96mLiaJRhFcgfrNfMTYARRwKP1q1ksdXnimBHe5IB/JqPyva6L7q102HilSdO2YwSec1J7Zn+n3JpsxJQLJwV4xUUoGCj+74ozbOH1uzW44QScUEZNfZ2sf4jRjx6jaWf1qTyzJjvVQ/PNZ+6kyl92Su6vGGQHDHJJphxvIHl757i4wPIkbkAf9VET6Vpt1umO+169ihtAqjw39cim++f0U/HpdoWl1pl1HYx3U0Dx28rFRJjhvwKAs559M1CG7hV4WgbvUZ91aovtT0J9DGnwW0L25XCOVBB/X5peXOztq/Sm4vRNHKWJCmStxS7OS6fRR9z7l/wAqu4L7wBalI1Q5HuIHrUWigxO2PMOc0bq76Ukxh0O2mRIz5jI3dmgZCDh0ypPB+1C7SGqGBBpYQufMCeR81Ztjw2t3qgke7jEi+2EjzE1X+zznw1IGPc3IqZ6bkv1E0NYlUKZ8SORlcYqTJ2tlMrsa2khGMiumSp+OKVfVFjHu6aGNz2eCpC59K0vqe0k1WR5pR4Y5x4XlBxWVN7X6XG5LpFORGxhyeT5Tj1qbFk9r4j7ekeafr99ZIqwyF+30Dc4onVd132pWvg3GF/IGKrDTheQCAK9i5VucE1QoyITWRfwkLZgSUycEctRWQwIbgAcUNYQPfTi0tx/bIOKJlikRirDlfIf2KauaF/Zw/f4w8p7/AII9KvvQ7S47ndpvXGILTEmT6MfkCqdYWkFzdJbPcC0tnOJJpee0U3bXUdn7W0WG20vVYr2ePz5iJBdj8VLlvS4j5XY0N463O2iTabpcEhv7oFLZlPsb7n8VQdK6M6ddaNJb6ox/mZSXafOFyfjFU7UurupxwgaJHFAMkEzoHYfo/FWrp51bl1K+Ww3UyQq4/rnA7QD9zUeLeJ8h9x0VfcHQfVrEs1tcRug9T254qEsejurXMTm1uou0e8FDmm6es+lRXMttFG/go5QyyN3BsH1FTLdVtqQaU13DcwG7A/0rx3GqZ8m2T1gFLB02/wARii1vcc4jEZ/rhBw0xHwKXmo3LT3U0ijELuT2/IGf/aO3tvDVN46zLcahMywqx8GMHC4+MD71DG4cBA6+49pP/Efc1ROS2Co0f//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAAAAgGBwEJAgMFBP/EADMQAAEDBAECAggEBwAAAAAAAAECAwQABQYRByExCBITIiNBUWFxgRSRobEyQlJidMHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFWA9/6UHvXrYrZX8iyO32iIR6eY6G00/eAcYY1iVlZjM21h98oBdVIQlwlWuvcfGg13jXc9R7xWCNb92/dT58lcHY1l7Lj8VlNvuGj5HWvVbB+aRSnYJxZec1yC4W21qShmE6ppcpaSUdFaoK+H/CsK17tgCrL5R4hvvHjDUictEuG4fKX2UkJFMXw/wTj1ntkG73YC4Tn2kPA79mkKGwCk/WgSisnWh8K2RZNx9i+R2xyBNtUVtpSdeZhpLah9wKQjk/EncKzObZnj6qPaN7/oO/L+lB0cbXxvGs6st4eG2ocgOK+miP8AdbErLeod7tbFwt76H47yAoKQf4Se4Nayda7jr8Kn3GHJ16wS4pVGfW/b1EB6Mo78yf7d9jQbBFO+yc6fynp9qpjwxkN2O+KSkFSrlI8ygOuvOanuF5VBy+xM3W2OgtOpKVDe/IrXUGqy8O81qA9kFilK9DcUzHn/AEajolKlnRoJP4lCl3ii7BSRpKNpUrro7FTnDXNYbY/8Jrp8fVFVl4kLiwnA3LQVhc+efRMtJOyo7BqbRbnGxzBLfMujoaYhwWi4onWiEjpQSuRNYiRnJMp1LLDY244s9AKQTnzKo+YckzrnC0WAhMdKh2Pk2N16XL3MF2zWY5FhuriWZCiENJOlK+ZI7g1VXc/P96DjWKKKC6vDNmL1jy4WZ1xX4W46aShR6JV32KYHOeO7Tk9wE70z0K4p6B6M4WwddvNrvSWYrPVbcit0xB0pl0KBp84cjzwIjgOy4whZ+4oIlinGFqst1RcpsuTcZ7Z2hUh0uIT9AarDxWZi6ubHxeK4UttAOuhB0FBQ7GmDacC3EpV2O/2pH+V7ou653cpCyVFKi1v5JJFBDjRWKKAooooOQ9UgjoR1p0OMMyg5XjcEMPITNjtpZXHJ9YBI1s/Wkv30Arviy5ERRVEkPsKPctrKd/lQPDl2UQsRtUidcH20OoQfRtE9XD8BSQ3SV+OuUuWd+3eW5r4bJNYlT5czQlypL4HYOuFWvzr5t6386DjRRRQf/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Enshrouded</div>
+                                <div class="name">Destiny 2</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, RPG, Early Access
+                                        Action, Adventure, Free to Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        74 hours played
+                                        544 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Apr 2024
+                                        Last played on 17 Apr 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            32 / 37 achievements unlocked
+                                            23 / 23 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgf/xAAsEAABAwIFAgUEAwAAAAAAAAABAgMEBREABhIhMRNBIlFxgZEHFDJhQqHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMFBP/EACQRAAEEAQMDBQAAAAAAAAAAAAIAAQMRBBIhURMiYTFBobHR/9oADAMBAAIRAxEAPwB1qsV1S25JrcmJRm2GknSQpx503AbRfvx84g5trNTQt96RmFyXQowMOa0zIHUZeVeylWAKwm4BtyOOMJ0ytqaepAlMKdTuIAUbIEnb8j22F0n9KHljBfUiCZWa1NUNpuW4pDa5ColyHH1KV/G5tvsPnviGRTFkkBG7D8V++efbZVoxjaJiYbddMzG9KoZjLZzHMgQ2EfbxC3qekSyANa7EgJQDsOBtiXTMxZgcrEJt7MUydBklSRqOkG2xSpPIIuNv2CDhP6h3dqtJggoM6NCajPoQq6UvKVfT8n+8QqBJEatQ1SFaG0ukKubBKuN/i2F4EsnbqL1RlAFPQrTsRGapRWhOaDzK0IXoCiLqA5sB7i3mcP3nRYKWaI/SaI26CA+qPocT6bf5iJRamy3TGErlwQhLQ8Jcs6FdwUnnAahFg1d37iLMjokIT42XnbJt5pJ49vcDFDKx+qNVaxwTdMt3R8q5cRR8w081KoxZ8t2XrbCHSsuuc61bcDba+BNUuGzLhzOs+8qQ71WQtCdK7pCirY8Aqt64YoddlRHWWX6lDlsMLC09V8IS2pPbUUFR9sBekRjMiuuzozy27oQW5gWE6lXPhDaQBf0wvHgJn1Stvz9eOUyaZnagfZf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcGAQX/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEBREABhIhMQcTFCJBUWFxgZEVk7HB8f/EABgBAAIDAAAAAAAAAAAAAAAAAAEEAAUG/8QAIBEAAgEFAAIDAAAAAAAAAAAAAQIDAAQRIUESgRMxYf/aAAwDAQACEQMRAD8AmXTGlQatVJzdSjIkNtxwtIUTZJ1gX2+DjejLGWO4B+lNlsKAcWgKUEAm1+f9xhelmo1OoIQba46Un6dxOETluJTh4Gl1VL7jrrXdaYT5GkXBIKrEFSyN7nYcY0Nn8KWod0DHJ4M4qnuRI1x4qxA13VTBWWMrh0gUpvtFRDbi0qSFgGwPO39YwXU6lQaTVILdNjIjtuRytQQTZR1kX3PsMJfMdHiGFLhUtLra0Md9xhR1tqskKJTfdKgCDcc8YNfVLUKnT0qN9MdQH7isC7MElqXjQA5HBmjbrKlwFdiRvuq50tWEVadqOxjj8axfCqo9VRPoLEqFDTLqDDSY6mWrB22wPmO4QQL7YFVPmyKfLRJiOFt5HBG9x6gj1B9sUbL2fmVaEzFGE+Ng4CS39iN0/Tj5wrbPDLEIZD4kHR4c8piZZEkMiDII90k6tVxTsvOSJsbwkx1C2kRnbFwEjTcEcptY3Ptgo9UlBVWg6Tt4c/jWbY9vMOf2U60w1Gc+dtaiQ2Pud1fx84nNQmyKhLXJluFx5fJO1h6AD0HxgXLwxRGGM+RJySPoflSFZJHEjjAA91//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Kindlewastes weeding</div>
-                                                <div class="unlocked">5 Apr 2024</div>
+                                                <div>The Prestige</div>
+                                                <div class="unlocked">13 Mar 2021</div>
                                             </div>
-                                            <div class="description">Clear the Kindlewastes of all shroud roots.</div>
+                                            <div class="description">Complete a Nightfall strike on Grandmaster difficulty.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgf/xAAsEAABBAEDAgQGAwEAAAAAAAABAgMEEQUAEiEGMSJBUZEHExRhgaEyQnHB/8QAGQEAAQUAAAAAAAAAAAAAAAAABQABAgME/8QAIxEAAgICAQIHAAAAAAAAAAAAAQIAAwQRIRMxEiJBUWGh0f/aAAwDAQACEQMRAD8AdazGdUtuSc3JiYZthpJ2kKcedNgNovz7e+oPVuZyaFvvSOoXJeCjAw5rTMgfMZeVdKVQBWE2Aa7jt20njM2pp7ECUwp1PIgBRpAk8fyPlwLSfsoemsF8SIJldVqawbTctxSG1yFRLIcfUpX9bNc8D389A2a5slkZyF+tfvz7+nELVrWKgwXZnTOo3pWDMZbPUcyBDYR9PELe56RLIA3rokBKAeB2HGpeM6i6gczEJt7qKZOgySpI3HaDXBSpPcEWOPuCDpP4h27lcTBBQZ0aE1GfQhVpS8pV7fc/vULASRGzUNUhWxtLpCrNBKu3PtWq8C2zy+Ju8WUiaOlmnYiM5TCtCc0HmVoQvYFEWoDvQH5Fep0/c6LBSzhH8ThG3QQJCo+xxP8AnH/NRMLk2W8YwlcuCEJaHhLlOhXmCk99ByEWDl3fqIsyOiShPjZedpNeqSe34/IGiGVj9Ve25jou6bcmPdNdNRsRlIcmXOM+UJrVncHEOOubqUTd8FN0dT24ENjI4x/5r7zksuPhK0JCQUuFJuj68jT+KzQjJaYMqLJLam1qdkSqSkt3SQdl14jz+9CmTYrkmA4uTCUtjc2lTMsLsLXuNp2Dz4vjTVUEMGccydluwQp4n//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwT/xAAzEAACAQMDAgEHDQAAAAAAAAABAgMEBREABhIhMQcTQVFxcqHBFBUiIzVTYXSBk7Gy0v/EABcBAQEBAQAAAAAAAAAAAAAAAAACAwT/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDEQQSIjEhYYH/2gAMAwEAAhEDEQA/AJb4aWy3XXcEkF3iWSmEDPgsVwcjr0P4nTjctv7Vp6ySJYKVQuMAztnt7Wk/wz+3Z/y7f2Gj9zoWuG55KdZY4eYH1kpIRcJnqf01u2telwS2ZTyIFLo+ZdrfdUn77f60m73pLfR3CmW1LGsLQ8m8m5YcuRHnJ82NP16slC9uL0HyGCWIGRiKlnZwI1PEAjuST/GppuEETU4IIIQ9D7R0f4VYx35bH6ivhzJ5O81LBS7ClchF7tgjoNOAvklp3FPyknSkk4PKkQXmSIyB1PozqVUlTNSVEc9NI0U0Zyrr3B0ea/LcJzLXYinYAF1X6DYGM47j3j1alrqCuSAPcSeiKVVvV1e2WwyPJWB5FMcZWaJwHMSEZAGcdNSHddRLV16VNQ3OaYNI7Yxklj1xrSpusEORAPLv6SCEHxPu0EqJpKiVpZmLOe5+Hq0e60x8cQj2v//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Nomad Highlands weeding</div>
-                                                <div class="unlocked">5 Apr 2024</div>
+                                                <div>Legends Grow</div>
+                                                <div class="unlocked">13 Mar 2021</div>
                                             </div>
-                                            <div class="description">Clear the Nomad Highlands from all shroud roots.</div>
+                                            <div class="description">Earn 5,000 Triumph points.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+30 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
