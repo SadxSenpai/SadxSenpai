@@ -41,11 +41,11 @@ jobs:
         plugin_anilist_limit: 3
         plugin_anilist_limit_characters: 22
       
-    - name: Steam
+    - name: Profile and detailed game history
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.plugin.steam.full.svg
-        token: ${{ secrets.METRICS_TOKEN }}
+        token: NOT_NEEDED
         base: ""
         plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
         plugin_steam: yes
