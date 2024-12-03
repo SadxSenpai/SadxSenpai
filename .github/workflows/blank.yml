@@ -12,6 +12,13 @@ jobs:
     permissions:
       contents: write
     steps:
+    
+    - name: Default metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.base.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, activity, community, repositories, metadata
 
     - name: Full-year calendar
       uses: lowlighter/metrics@latest
@@ -81,3 +88,12 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         plugin_fortune: yes
+
+    - name: Full history calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.calendar.full.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_calendar: yes
+        plugin_calendar_limit: 0
