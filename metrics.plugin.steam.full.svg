@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            8.12k hours played
+                            8.13k hours played
                         </div>
                     </section>
                 </div>
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 15 Dec 2024
+                                        Last played on 16 Dec 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -127,15 +127,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcDBQACBAEI/8QALRAAAQMDAgUDBAMBAQAAAAAAAQIDBAAFEQYSEyEiMUEUYXEHIzJCUVJiQ4H/xAAZAQACAwEAAAAAAAAAAAAAAAACBAEDBQb/xAAnEQACAgIBAgYCAwAAAAAAAAABAgADBBEhBRIGExQxQVEVIjJSof/aAAwDAQACEQMRAD8ARCGsIIIIrobZBSMJKtvPlUqG3I5V08Uewo8+n+nbdqF6SibKTF2tg9VPLlb9zFTS8B2I4UtKUnY6ewV+1FkTS16KG8257+w/0PamPI+ntjjwPsTULf8A+S+fUaMNMzX7Sw7D4rL0QNjBUjKiryAaF7/6mStLiJYaZu5wDBdSjxkearZFufbcSl5tQUFY2ea+hHrktNvftjUqMlsDiO7kZWUq8A+DUDGi9P8AqFPKkFxSmwpS9xx8D3qn1BXZPzDFO4lYcJ1J3KBweWKIbe0pLeMYo31VZLdDhMm3qClFWKqYloeWSXE7U4zS73e3EZrx4BotDbwUkNbgf6iiOxxH7TKS5b46NwAyFpzmmG3bIkYhLbATnyRWjy7fCW+4+pHSgHGcVwR8UWW8Ks1vxo+5wQrzfOa5sOO4yeSdjQG2jG3NiRBK5b8Rp1Y6UbMEUO2q6tvtLfbSAyeW1XP/ANqOLcrdNeW/HDjgB2narkkimqvEdtf8kgnp6j5hTLjBqE5JEiE06E4AW3kqxVSxeJ60JJZYCEn8w2MGg7U2tLXBnRmGni6N2Fp3ZxRrCfYNtbkFaWmsb+rtg1db17JZV2mtwPSds7nW3bkwFzWW0IPIFKcVB6JGRnG1PYDzUzFxblSHra0oEtNh3I/g1LGDLjxDK9ymx1CtpMg2a7jqVsnbBJ6apTqg4lXDxzOaWX1IZRMmxFeqW1J344iVkIbHgqHmjYRTnrUt0jsEnt80jvqmzepN9MqWy6y0cIbSk4C8VxnQsZWyODqa+W3aISX/AFQ5YdN8JmSFyn/toQO4I/b4Ncek9W3S1sx5Fva3rkKKXGVDJP8AJpfy1O3a5IelghUdCQoeCB4HvR7NjWdYZl25bnqS2lKUpXySoDviuryMWhV0wiFe2MGbtOfvGqXLhaozrfVhba+oBWeZpsa21DH0/oqDanZJfkTAOLw1YUgEZx7VVaXm2bS93cky7e6XpTYSW1kEA/2x70vr0o3vWHELhMfidKT459qUZVyLV40if7J7STHH9NrjdL1mW8FMWxSAxz/MhP8AqnZb2mGmGUoRtA7Z7q+TSf0/xNN3KNBQ4hNvfbSeGoZOSOeDTEiPllBXHXuSrsFHOKxr+rtj5BY8qYwccMIm4+tLkytxhlKFvYz+PehS9SpM1e+TuDilHclZzs96KrK3H1LYHrntDUvmlzbywkdsUN3u1LaSh5L2zinYQvntA8mtejHrqu+ou9vmSicta0yQVtEqcGMp7EVdaQtq27iXkJAbT+CVjPV5r2Gu4w4pbi7FsI6lBxO5Svg0T2mdG4q4rbCmJb6AFNr5ke4puwBtheZCHsg9rSGiTemXkJXwwBjn3V5qmszrEOcli4s/cSsqSgclHPvRnHTa0y3o8h/hJa6wHDklXnFcE6Hb9RNcZILZiKJWpJwSnxzqsH9fJIhO/PEybMlypkdbhUiK0rIBPUB81rq3V11krj27i+nYHYJ5KI+awITO9G3Cc3xVr4ah3Vy9601fa8TbOkNqL7zvDCP2IAqlcdFYbEnvbU//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">War Thunder</div>
+                                <div class="name">HELLDIVERS™ 2</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Massively Multiplayer, Simulation, Free To Play
+                                        Action
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        1.96k hours played
+                                        62 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 15 Dec 2024
+                                        Last played on 16 Dec 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            82 / 88 achievements unlocked
+                                            29 / 38 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUBBAcI/8QAKhAAAQMCBQMEAgMAAAAAAAAAAQIDBAURAAYSEyEiMTIHFEFRFWEjQnH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRIQMx/9oADAMBAAIRAxEAPwCrnLOE2nZsg0uL+OejTW6fIffnUxsOvOFKbPOpIuFjg9rptx2w3dkq1rUqdl8qVJEwk04XL44Dp48wAOrvjhvrc6gZ9jKle/daVToW6JJ25Khti+uw6XPvjg4NwaNBmJLomZhajaSsur2j0XsVWBJIH3a37xn9BX7k0AYcnpREwpWhQnZfCkyTMSRThcPngujjzIJ6u+BGS85TalmybS5QpzMaG1UJDD8Glt7rDoSq7zSQLlZuT2uq9j3xyCZR6dGRvidX34vJDzW1awNrkEggfu1hhL6IOIOfJK43vmmk06btCMdySkbZsUXHU59ccnDzEfuxYMeTPq9FEr1VhRHkTAj8ZEU6iYsKfKUsFRS4flfTZR+7424jUyhN0esQZCIdWcdWlx9UhKmdI40EC40kWGk8fH+W8/5IrM/PUSuUwUxuLCjQYj8afVWt1pwtBOw6ST1qCtIJ8ibi+EWe8tVWrNUmNDdo6moK/wAc825OaRqdNilkgHzII6e9+3wcX0LbySljMYIzZpqcNqtw8vzKUXFLUytDiFRHE6iD0E/xgm444PPfvid6RRkxvVWbFYRLKDTJamkQl2eCVMBQS0T/AH6rJP2Bh+cu1uqMt0qqRMsCme5dhs7MtoOtvAGzQ580geA545+TiLkDJFZgZ5l1yqCmuRpsadEYjwas0XXXA0U7DSgR1pCbEjxIubYtB3pFrGZP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAEE/8QALBAAAQQABQIEBwEBAAAAAAAAAgEDBAUABgcRIRNBEjGBwRQVIiNRUnEzU//EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQIE/8QAIREAAQMFAAIDAAAAAAAAAAAAAQIDBAAREjFBBSEUkbH/2gAMAwEAAhEDEQA/AAGquotzLzLKr6uVIrYcB42PsOKJumK7KRKnbjhPfC9W2Od7Frqxre26P/RyYQCv8VV5xllXhZ6pW8d1N2vmEgzT8ihqu3rhuzJCSXSuRgJloeNkM/APHkiL27YTwYEVmM2hDY0OA7oy1qKiSaTLO4znWEPxdxbCJJuJjLMhX+Ki4ZtKtRbmJmWLX2kqRZQ57wMffcUzaMl2QhVe3PKe+CGRqspD1TVxkakm1JB9/pr1G2W0Xc/GXlyniHbv4tvLAGyoWst61QK+Km0VLGM8wP6gZiqD6cp6YxzhBeLsFTacsCr0Bz8OiKujMWWD2hllYBWapW8h1dmfmEgHF/Akapv6eeKW001H0/nZiiR4Uy4WQ42LktnrtxgElTZB5QfpRF8XdSTfjCpqtp3cxMyyrCsiyLKHYPG+isNqZtGS7qJInbnhffAbLI5+y0bq09bcMtu/6NHCI2z7ciqbeWBPONeQgNfHdSLYkgmwNtpPR9cqQC2s5Cr/AKcWT8zJkebZhEjufURmw10WlFOUJE4TbbzVON0XbEMsr5rMmtcCwirvFWxjMsl+wAQohevK+uNZjm6jZii/C2UC3+E4RWGYJNAW35QU5/i47tKdO7mZmWLYWkWRXQ4DwPqr7agbpiu6CKL245X3wriQI3i0yJr7iclAgBJuADwaJOhqirWp3FCQfVf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hungarian Ace</div>
-                                                <div class="unlocked">4 Jan 2024</div>
+                                                <div>Promote Synergy</div>
+                                                <div class="unlocked">2 Mar 2024</div>
                                             </div>
-                                            <div class="description">Destroy 100 player vehicles while using Hungarian vehicles</div>
+                                            <div class="description">Provide assisted reload for a teammate.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAgQH/8QALRAAAQMCBAUEAQUBAAAAAAAAAQIDBAURAAYSIQcTIjEyFBVBUSMzQlJhcYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESED/9oADAMBAAIRAxEAPwDfnrPj+X8zxYxZhS6a6xAmzFyaY2JElQSk8xYIFnLDa/ie1rYtmXjJRHplOXQ6a0yz7gJs4Sae0VOqGkBxJv8AqAA9XftvhJ40yeTxDhvvGc4kU+CpfqrNyD+MG69rJc+9tj8YHyTDr6oUl5VYZZhr9QHVJZIKbi6rAk6Rbva394xqmmdEzLSZ2IcacjpdSRQ5AKZJmJIgtXD52Lo38yCervvgFkbPj9fzLJjBqFEpzTE+bDcjUxsyIyilR5iAAbuWO9vI973wlTa1HjtF9Pur0Y3IebDVrXtcgkED/lsTgtJD3EKY+yZzaTT5ym/S2ckj8ZN0bWU59bbn4xIqqfRUTKeE4uRRK4rQojyJmj2yIp1uYvU+UpYKilwj9/TZR+ycbIrUyhs0esQpCIlWcdWlx8vhTJSNtJAuNJFk6Tt8f4Zz9kmsz88xK5TBTG4sKNBiPxp1Va5rThaCeQ6ST1qCtNz5E3F8Mme8uVWrM0mNDcoymoK/bnmnJzSAXjYpZIB8yD47G/b4OHoq3gilmMRs16apDZrcOgTKVrUtTKm3EGI4nWQegkcsE3G2x3798D+EUVMXirOix0zFI9slqaRCWEvhK2AoJaP8+qyT9gYfjl2t1VhulVSJlgUz1LsNnky2g628AbNDfdaQPAb7b/JwFyBkis0/PMuuVMU1yNNjTojEeDVmi864GinkNKBHWAmxI8SLm2LCe9JVLMP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYEBwgA/8QAKRAAAQQABQEIAwAAAAAAAAAAAQIDBAUABgcRISMSMjZBYXSywVFikf/EABgBAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIEEQADITEFIv/aAAwDAQACEQMRAD8AAarai3MrMsqvq5Uith17y2eg4ULdWk7FSiPLjgfeJFbQahT66LMYs79TUhpLqFJlI2IUNweXQf6BhAz341zB79/5nGkY7EiRpJXNxLBNc6axgCSpYSlsFtIJUSDxsT6/gjHEfQ26/kRIyx9afugSwv0XfO5d1g7XYsTzKtsqDUKBXSpj9nfpajtKdWpUpGwCRuTw6T/AcR9KtRbmLmWLX2kqRZQ7B5DHXcK1tLUdgpJPlzyPvFtSGJEfSSxbl2CbF0Vj4MpKwpLgDagCkgDjYD1/JOM3ZE8a5f8AfsfMYfP26/rRJKyNafiwCorwe97jYDqdSpPc7PfjXMHv3/mcP0aZKn01Sie+4+2zHbRHaWnpo2SAOw0O+r91Yj6rad3MTMsqwq4siyh2Dy3wWGytbS1HcpUB5c8H7wHfi5uEBqJBy9axUJbS244mK4XHNht3tuB6DG5Dlw5MfTsDqaAqyLBqj70HIXR1YisYJMyVAprZEB9xht6O4iQ0hPTXukg9to9xX7pwg5F8a5f9+x8xg8xFzaYDsSdl61koU2pttxUVwON7jbvbcj0ODGlOndzLzLFsLSLIrYde8h8l9soW6tJ3CUg+XHJ+8JkuHGj7thdRYN0RZNUPOk4RXZgKz//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Finnish Ace</div>
-                                                <div class="unlocked">4 Jan 2024</div>
+                                                <div>Patriot</div>
+                                                <div class="unlocked">2 Mar 2024</div>
                                             </div>
-                                            <div class="description">Destroy 100 player vehicles while using Finnish vehicles</div>
+                                            <div class="description">Play at least 50 missions.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+80 others...</div>
+                                            <div class="description ellipsis">+27 others...</div>
                                         </div>
                                     </div>
                                 </div>
