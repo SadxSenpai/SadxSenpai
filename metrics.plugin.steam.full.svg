@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            9k hours played
+                            9.01k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        47 hours played
+                                        57 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 May 2025
+                                        Last played on 8 May 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            68 / 112 achievements unlocked
+                                            70 / 112 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBP/EAC0QAAEDAgQEBQQDAAAAAAAAAAECAwQFEQAGEiEiMUFRBxMUYYEycZGxQsHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAERAhIhIjH/2gAMAwEAAhEDEQA/AM/eHmTJGdqu7T4c2JFeQ35g9Qq2vexA/e/94qVJ8PaU0w2KbDi1EnhEuatSw6rccLSLaRy5nqPkh4Rhtqj5jkeYpp5aGo3mD+La1EKOLxHqjKakxHpbcSntIZWGyprUlLYOlbilk8JsDY978+gk6NipJMx5PpSEq9dDhxUnh9TAK0eWr3bXe4HW372xJ6/SH6LUnIkgpVbdC0/StJ5EY0NVqgZL1UZkLZeZkpCXCGwlFwQGyFb3uL79Tb74kviE0lVIpTpcStxpTjGodUhRA3+MF7gzzRD4dJgN5fRDcSgGotq1unnruoAfFhb3PvhRT6mwW4dHqLqYc1BDQc1FLTzdkoF1AjZQ2IB6qxCqfWJUFsttEKavqCVdD3HbDSmZyhVWImFmZm5GyX0c/wDD79euM0xTXxi2bU2H23YURwTZshstrAWVMxWxqA4ze+kabfG+DGcIrTlJU02glqM1dLqhukgjn97j8jHHUM1Q6YyqNQmkk33WrcE9yTzPYcsGatmSfU4qYzywlgHUUpvxnuonc8z+cQs6tK5ZkP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAABwYBAgMECP/EACsQAAEDAwMCBQQDAAAAAAAAAAECAwQFESEABhITMQciQVFhFFJxgZGx4f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIDERIhQVH/2gAMAwEAAhEDEQA/APPG29pyqzEXOU81Gp7boaU6s3UpVr8UIGVG3999LHhP4V0Gpz5UvcKp7sKOQlpogI6qj94BuABb1Hf41O+EsthdNTDLbauk889KC4yXObXSvhZykjicAdyDfGkTYSpLsjjEhuLC2kpWmN5R1DYJKiMe+PXOmjNlzOLmPpEbq8OqXL3RHj0PlEZlOlvjy5Ibtm+c2sD+9QlW2iWYb8umShIYjgl1Dqek6kXty43Nx+Dj10tVZUhrecFMaJJabjvocUlQUfMFALJV7WBx2Fz76ht49SLEqi2Y6nYqpC20uHlxSgk2IINvUC3bOnr0ucu7cmfBqnSJLsuWicKbFhK6z0xQvwTxI4gepJNrdvfS/B8QOnS58egM8okZovuyZnkLpseIQhIHe1r4HvoT2TuGn03bsunT3btyytLreRxFhxUk2Ob31yPbvgJfUlhyWGCz9OtKx1C8nNypVx74FsDQn0VUvltCeveKa4uVAntfRyVoLapsVS+AJ+64BGcf5o43i9Ma2mlp5CurHfXEecVkEKUXLg/Jv/Ot5e+KS9Dbjg1ZyyOCjIkKULEWIABFh+9dPclagvbYfgsVZUu6klpkhXksflIBxcXwfjVCmaTTZ//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>DLC: Stir Crazy</div>
-                                                <div class="unlocked">6 May 2025</div>
+                                                <div>DLC: An Ocean of Knowledge</div>
+                                                <div class="unlocked">8 May 2025</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwYCAwQF/8QAKBAAAQQABQQCAwEBAAAAAAAAAQIDBBEABQYSIQcTFDFBUTJhcRWB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQBBf/EACURAAEDAQcFAQAAAAAAAAAAAAECAxEAEiExQVGB8AQTYZGh8f/aAAwDAQACEQMRAD8ABNE6KkahSJch8RMrQ6G3XigqURVnYkfkR69gcjnDR0q6S6SzaRKczVmdJjxFgJU4ot95R+Ckekgfvm/eJLotLaXkq4yGwVRn1vy98dLgUx2yTtUeUkbT+IHJBvF/0tVMXPWIbEp4PMJDobcJHcNbSpR4FWePnHM6hbxDhSYsxzhqoKabLSFC9fNbvRqW1R0505J1E3ByeI5G855TTS0vKUllQ5ujfFA4M9QaJMaE9PymV5EJoFSkPgNuhINbgLIUOR6Nj5AwvZ6uW11CyzwoctpEV9tZQQojcFU4SqvVD+CziA1sHIcPOFMx3HYi5brSHKOxKdwIpQ+rqufrA6ZTwSglUzfrnFUvdlSlpCYs5+YmvR6GZPKdgT8wRmScqjMvIdcmKF7EICgoAfJJUBX9+sL+X9RmUZdmTOm2AuLCZMh2VMGzvGjQQhIHuqvgfZwI9Pc1g5fo+XCmLYU1mCloeaD2xdAAJXZ4BBJoV/ca5us4EKW4zHXKcZ8bxHUrV3A8nm9yuCfZAqgB6wXmS84uQZn5d700pNkIQgkiIz3/AE40sjXSNRPS8szBowJimy2qfCLhbSSKpdgEUePXP7BwUav/ANFGkO28lXdhOOwpClWQpKnO5uT92STeMpfUDLZcJiEG82dSBsV5U5ak164CSK/6cc2p54e0u9EE16QyiltNuSEq7ZsegOSQOLwmWO0sQmASPl0zvhWldtBJVMA8jbGv/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAgQF/8QALRAAAgEDAwMDAwMFAAAAAAAAAQIDBAURABIhBjFBEyJxB1GBFRZhIzJCkdH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRMRIhEyJB/9oADAMBAAIRAxEAPwCZLLaqi71i09PsQHlpZDtSMeSx8DTLs/RNogWH1VqKubejetIm2JwSP8M7tvPc9+ONZ/SGypXQQGauipKZneSR5gWAI2hQgHO4jPPjTs/bnSaqrR11VLIACzPFOSW8nI2jGecYxpmsVKuW7MXsNhOF1J+6h6XtZeQUqzQSM7sJAPYBkgAL3I47jHxxoCuVvloKgxSlWHcOpyrD7g6pK89NWgz+tR3OdZlO8F0cjOc9iOB8aWn1LtMFNafUoy7RoymVt2QX7Akdxnn/ALobPGR67mi8vs1OgbgP0tYMxwyRSYWXcSx3Y9uwf3Z/GPvoth6luU7LEtVMHK5xHOx/GCw5/gaSlurp7fVJUUz7ZF5Hkf60SUN/hdg0mIpSeQw3L8j7aFODdNCORqHtbcqqFRJWxVT5YgGeUhW+AGznz47aGuurm8loNNJHCp3Af0vb7gTklTz2/k+Oeca5lbfqON3Yp68wJAVPancnJbufxjQzdbjUXSrepqmBdvCjAHwPGrfgowsgydz/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>DLC: Importer</div>
-                                                <div class="unlocked">5 May 2025</div>
+                                                <div>DLC: Arcticologist</div>
+                                                <div class="unlocked">8 May 2025</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+66 others...</div>
+                                            <div class="description ellipsis">+68 others...</div>
                                         </div>
                                     </div>
                                 </div>
