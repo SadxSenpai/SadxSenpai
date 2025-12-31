@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="492" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            6.97k hours played
+                            6.99k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        14 hours played
+                                        25 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Dec 2025
+                                        Last played on 30 Dec 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 172 achievements unlocked
+                                            18 / 172 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYIBAX/xAAsEAACAgIBAgUBCQEAAAAAAAABAwIEBREAEiEGMUFRYRMHFCIjM4OissLw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFBv/EACARAAEEAgIDAQAAAAAAAAAAAAEAAgMRBCESQTFRYaH/2gAMAwEAAhEDEQA/ADnw5RxmCxVKT6VazecpbWseoNIM49UYQjL8MQIkbkQSSfTXLjCsr5N8EVcHSY2XYRFdOz/HkHZbJkMZGOySpQ0PhK+Pf2X4SiutWuwXehejE9f1VmMPL050UREbSa0Pixcl/EX2VDZdSsbYlXt4KmpsfMGsnf8AXk14gwOMz+Fusr0a1a8lTGqYhMVGUoRMjCYiekgxB1IAEEfPHjxficPYLn33FVgr3E9YHkO3bz4WUUQVHKxXMMiFM1Mb0fyWcWmzM8fiGKa99hGmFyTVZrDrTZbXE/ornNc+k9JWv15pD6danbxoU9snTeIS6nkylGMSJb9fMEn59uZBrWF3U15wetVlcYwlGbAs7iNCcSex2ANje9jlJSs5GTYNnmZBkBIRkbKyR1b6u/V67O/ffIYZ9Ee1Zk4xeRRpMOU8dRtXXrakWKZ0BFu9x9zE+cT/AN3552Ou13jK/dROKSpnQJ63+iz24eIpjW5ZGsf3kj/XOi7naWAxFuC7aH3nKmpSktDSDOPSWTlHtECJOogkkn45SJuIs6CIY4Gmr//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAJxAAAgICAgECBgMAAAAAAAAAAQMCBAURAAYSMWEHEyEiUYFBcZH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAgMFBv/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEESExEnETYYH/2gAMAwEAAhEDEQA/ADrrVDG4TF0i6lXs3nKWxk3pDSDOPlGEIy+0ARIJkQSSf41xZ6/1iWQpws2MRi6iZDcZOQmO/wBePJD4e0UZHM0HXB5VqdSFicfz4oXocWOkWU9nq3LuQWG6d8tUNnUI69AN86OMtibrHSwKmQ3NlNZnqkqdWT6+JxlpMfUpQmRH68eHfYuv43O4e7JFCvVvpUxi5pTFRMoRMiuYifEgxB1IAEEfg80TYhU6/Se9KT9x2Ygkge3sOH/a8YinevvrR8U2q02gD0BKWb5O7ZgQRjpVQzuBRX8POxVsb2Gki9Pwq260azJH6ePklYB/0ccuvQxPSsYpD7YDHyMixm9frQ9PT++ZCQ5WQroIctb4QiucGTEDuI0JRJ+h2NbG97HvxK6p3TL42kunZtUb1SA1Fdoqn4+wPlvg4Zg8cXaTaqmJy36nW3mqufZYx2Li95YY+T/qFxA9SeTPZs1Xv379erMTTVrTTGQ9JEJZsjkTk+6ZK/TlVr3MdQryGpQrTSvy9ifLfJa7nqeCxNyMLiH33Kmta0tDSJTj4lkzH7YgRJ1EEkk+3E+RsY9BHjpjdf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Have to Start Somewhere</div>
-                                                <div class="unlocked">29 Dec 2025</div>
+                                                <div>Nailed Down</div>
+                                                <div class="unlocked">30 Dec 2025</div>
                                             </div>
-                                            <div class="description">Build the first module of a station.</div>
+                                            <div class="description">Destroy the engines of a capital ship.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBf/EACwQAAICAgECBAYBBQAAAAAAAAECAwQFEQAGEiExQWEHExQVIlHSJHF0gZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBgID/8QAHhEAAgICAgMAAAAAAAAAAAAAAQIAAwQREiETgZH/2gAMAwEAAhEDEQA/AIPovC0qVfG11oVrWTtJG7vPEspDOvcqIrfioCkbYgkk+muMVXoRmQd9DEd3tBF/DkB8OqdTJZvG/V3DXaGvHJGA4Uswhi8ieONPNY9sl9vF92sDw2da3+t/vlEjeNdKAfUnsqxuehJCXoFgv40MTv8Ax4v4cM+selKOQpZKH7fWq5OrHI6PBEsRLICxjcKdEFQdMACCPUHmlXCsvhOf+jhZ1fja1PIZB687TPNBK8m27irGGTz1zSOLwVYD5OVF7BuzBLpvO1cX1FhLV+Ez14hH3x/sfJQf2P75o7EV6dm5XyH0Rik/JoUlQKJFbx8vRhvyPpzHtaeK9BAwnijnjRUdJHCeKjQZSfA7Gtje9j34uYj4lZhKEVezJjZgqhe5zHttDQ3p/P34bHuBBBMfl47EgrNDtk4Asv8ASShohtl+WO7XsPXhHkMzWymSzM1RDHCYpAoI15Qyc51P4i3DT+TffHWT49rtPGjKD6bDg/75E5jqOhh6OQaCxXe5YjkjiggmExUuvaXdh4ABSdDZJJ9uIVkpBbcLTjMD2J//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAP/xAAsEAACAgEDAgIKAwAAAAAAAAABAgMEBQARIQYSE1EHFCIjMUFhcYGiJJHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFBv/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIQQxIkFx/9oADAMBAAIRAxEAPwCc9OUcZgsVSaelWs3poo5ZZJ4hKQXXuVEVvZUBSN2IJJPy205ULlKx2hMLRZjwB6vDz+ugvT2EbqOxRrpcgrFYI296xBbaGP4eeq3i+i0x+L7TkEaWJvGSRYW3BA+G/lxrSUgIMHr5Il9qg7O4hWZ6kfcGwlJCDsf40O4P5XQLqDA4zP4W7JXo1q16GKSWKSCFYizIpYo4U9pBUHZgAQR5HVfXpWzlcIsqSQiWZzK3epVifv5fE/nSlLg7OFbJQ3E7WaGQqw5BHgyc6I6pYCuoJLgPe5KsN1dc6avUbNBk7vCjV1ddwy+FHwf81Xsf6Vrd6mBUr1nlEDSzkqwWID5Dc8nkfkgc6zdDNFka0Hvoo50RY3SRwh3UbBlJ4O423G++40Zx1RkHF6JNxztLFz+2ptdxY9ZEfu4yNs9zTdT0i4/HYqlHbqzq7QK4CEMCp35BP2PGlO11M/UU2SnkVUVYJERQPkIZD/epXFVJVe/JVyFGwBniG305bXe5naWAxFtIrcE96aJ4oooZRKQXXtMjlfZUBSdlBJJP000tiplyMRUcVQfHZn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Through the Hornets' Nest</div>
-                                                <div class="unlocked">29 Dec 2025</div>
+                                                <div>Capital Punishment</div>
+                                                <div class="unlocked">30 Dec 2025</div>
                                             </div>
-                                            <div class="description">Complete The High Road mission (requires the Kingdom End expansion).</div>
+                                            <div class="description">Destroy a Xenon capital ship.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
