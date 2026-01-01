@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            6.99k hours played
+                            7k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        25 hours played
+                                        38 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Dec 2025
+                                        Last played on 31 Dec 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            18 / 172 achievements unlocked
+                                            21 / 172 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAJxAAAgICAgECBgMAAAAAAAAAAQMCBAURAAYSMWEHEyEiUYFBcZH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAgMFBv/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMEESExEnETYYH/2gAMAwEAAhEDEQA/ADrrVDG4TF0i6lXs3nKWxk3pDSDOPlGEIy+0ARIJkQSSf41xZ6/1iWQpws2MRi6iZDcZOQmO/wBePJD4e0UZHM0HXB5VqdSFicfz4oXocWOkWU9nq3LuQWG6d8tUNnUI69AN86OMtibrHSwKmQ3NlNZnqkqdWT6+JxlpMfUpQmRH68eHfYuv43O4e7JFCvVvpUxi5pTFRMoRMiuYifEgxB1IAEEfg80TYhU6/Se9KT9x2Ygkge3sOH/a8YinevvrR8U2q02gD0BKWb5O7ZgQRjpVQzuBRX8POxVsb2Gki9Pwq260azJH6ePklYB/0ccuvQxPSsYpD7YDHyMixm9frQ9PT++ZCQ5WQroIctb4QiucGTEDuI0JRJ+h2NbG97HvxK6p3TL42kunZtUb1SA1Fdoqn4+wPlvg4Zg8cXaTaqmJy36nW3mqufZYx2Li95YY+T/qFxA9SeTPZs1Xv379erMTTVrTTGQ9JEJZsjkTk+6ZK/TlVr3MdQryGpQrTSvy9ifLfJa7nqeCxNyMLiH33Kmta0tDSJTj4lkzH7YgRJ1EEkk+3E+RsY9BHjpjdf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAxEAACAgIBAgIGCgMAAAAAAAABAwIEBREABhIhYQcTIkGRwhQVIzFxcnSDk6Gi0uH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhBDESIkFRgf/aAAwDAQACEQMRAD8AnPTlHGYLFUpPpVrN1yltax6g0gzj3RhCMvZiBEgmRBJJ92uOFK/RbEaw9An9Okb/AMeLuLxrs7axlOs1MJlCztrOweCF+88qWC6Au1GLZYtUZRj49smkg/Dmkp8VGDgD8kW+xR2dwFSonI7FLp2szXgTGqk/LxY6j6exubxF4poVquQQpjFzSmKiZQiZFcxE6IMQdSABBHny6t6bfNteafUIhCGpCs2UO/zJ8eI+fxyaGSyikokofR5kiU+7ZKGbO/PhGFdoKj6i9d+9SM4bqdvT+Vxl1C1OktcAYMjsEFK/h+PLNifTJjHwiLOJnH8shIf3HmaUOVkayPtlQfCEVzgyYgdxGhKJPgdjWxvexwxQo+A3cTH9xX+3JldrN8ZEoX8ZH23c1PS9JeGu9q0RmthH3OkIRHl3f84o5u65+TyptWEPlKvMxkmQlED1DCBvy5Ia9MRAP1jX/mSPm50Xc/TwOJtxhdQ+85U1KWloaQZx7Syco+zECJOogkkny42li1gkjEVXiBT67n//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Nailed Down</div>
-                                                <div class="unlocked">30 Dec 2025</div>
+                                                <div>Ship Collection</div>
+                                                <div class="unlocked">31 Dec 2025</div>
                                             </div>
-                                            <div class="description">Destroy the engines of a capital ship.</div>
+                                            <div class="description">Own at least 20 ships.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAP/xAAsEAACAgEDAgIKAwAAAAAAAAABAgMEBQARIQYSE1EHFCIjMUFhcYGiJJHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFBv/EAB4RAAICAgIDAAAAAAAAAAAAAAECAAMRIQQxIkFx/9oADAMBAAIRAxEAPwCc9OUcZgsVSaelWs3poo5ZZJ4hKQXXuVEVvZUBSN2IJJPy205ULlKx2hMLRZjwB6vDz+ugvT2EbqOxRrpcgrFYI296xBbaGP4eeq3i+i0x+L7TkEaWJvGSRYW3BA+G/lxrSUgIMHr5Il9qg7O4hWZ6kfcGwlJCDsf40O4P5XQLqDA4zP4W7JXo1q16GKSWKSCFYizIpYo4U9pBUHZgAQR5HVfXpWzlcIsqSQiWZzK3epVifv5fE/nSlLg7OFbJQ3E7WaGQqw5BHgyc6I6pYCuoJLgPe5KsN1dc6avUbNBk7vCjV1ddwy+FHwf81Xsf6Vrd6mBUr1nlEDSzkqwWID5Dc8nkfkgc6zdDNFka0Hvoo50RY3SRwh3UbBlJ4O423G++40Zx1RkHF6JNxztLFz+2ptdxY9ZEfu4yNs9zTdT0i4/HYqlHbqzq7QK4CEMCp35BP2PGlO11M/UU2SnkVUVYJERQPkIZD/epXFVJVe/JVyFGwBniG305bXe5naWAxFtIrcE96aJ4oooZRKQXXtMjlfZUBSdlBJJP000tiplyMRUcVQfHZn//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAT/xAAxEAACAgECBAMDDQAAAAAAAAABAwIEBQARBhIhURMiQRQjMQcyQ2FkgZGToqPBwtH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxESIQRBMVFh/9oADAMBAAIRAxEAPwCc8OUcZgsVSk+lWs3nKW1rHqi0gzjzRhCMvLECJBMiCST6bacaN6i8ARw1Ak/Z0jf9Oki7Y91jev0SvXsleqv8luGRcK7uRaII5jBQl8JTAB27f7rRQFrddBR53YjIoXklqpCPtOAqK5o8w3qp6g+vWOlviDA4zP4W6yvRrVryVMYpiExUZShEyMJiJ5SDEHaQAII7HV2zeAXCjCL5TsQlMlzJkDw/XmBPw/n8NTCtXUqWXgiRmsLaIz223Hgs67aMQyZp9JeKa9jpR27b3OPjv1C1j9petGcPyxnBvBBGWbK140oia9unPy77Q3HXYH5w1lhDlZCsj3y1vhCMJwZMQO8RsJRJ6HcbbjuNMKTaspSqzlBNahsuM3rkIDsPN0GpsM3n6nuRAX0LoKz8SceC9ThSoMf7JHqZO6TPYHbtoPgrgdVyW/xKmff7lmkFFICI3yNb85I/trpu52lgMRbgu2h95ypqUpLQ0gzjylk5R8sQIk7RBJJP1acbNgLdoIIgAGLV/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Capital Punishment</div>
-                                                <div class="unlocked">30 Dec 2025</div>
+                                                <div>Bling Bling</div>
+                                                <div class="unlocked">31 Dec 2025</div>
                                             </div>
-                                            <div class="description">Destroy a Xenon capital ship.</div>
+                                            <div class="description">Apply a paint modification to your ship.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+19 others...</div>
                                         </div>
                                     </div>
                                 </div>
