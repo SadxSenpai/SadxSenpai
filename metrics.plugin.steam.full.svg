@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            7.28k hours played
+                            7.29k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        100 hours played
+                                        106 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            32 / 94 achievements unlocked
+                                            34 / 94 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABQcBBAYI/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDEQQFBgAhEhMxQQcUIjJhFRZxs0JRUv/EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAMAwEAAhEDEQA/AAMtyZ6gqU2yzpRSIp20JddabQFOKKBIBA9sH8zOjsarMmyC8U9ttbzr1U6oAANohI7qV6dgP70HlboRkFUEmNmv1I1WvA6vrH8crKDGLa3RXBTs3G+1CxwNs9QlA/1wzt0HuPbVEygbuxviLjmWYdD5rzcLZEKq2GUw2qYKVCDH56aAxTKH6+octl6DdYmobWlp1xtBU2oNmASR7YB+ZjXcZBcHMHoFXTGahzI8JuvMarPNVBdh8qIUeKJQSNge5G/bUbsLrKstaNOhTdMS6W0LMlKeWuAT3jTNtDY7MHoyOqAV/Fr9SNUzwitV7yuwuUdZWNWjBKJfMuL0crzRBkoUvqfkyEgfOuTznHDdqxu72Gppq0vtN89hNQ3xoUGxJAkemANuszo4/ei8Xbx4+a+ipcLwpQ62EFRM7+qSJ3g7TvrhqleDTWS/WK8VXhEph5tLa2LlYVjharEbgOJQrouN0qHWAOsa87YwsoyinSoKRw85JSv3JhtYg/Ot7GGcuxe7t3SyMvU1Y2lSQsONkEEQQRxQR3g9wNZoqG8v5Qq63anKVuqeffdltI4lIVJgGBue2jC//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwf/xAAtEAACAQQBAgQEBwEAAAAAAAABAgMEBQYRABIhEyIxMgcUQUIWIyRRYXGBUv/EABcBAQEBAQAAAAAAAAAAAAAAAAADAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwBBluTTUFStss6pSJTxosssUaBpGKDYBA9uj/e98XYxc7zeL7Q0Aq6pllmRZDBAjskZIDMBr6A74DX0puObrQxsi+PJAhLSLGACib7t2HblncMHfDc2xT9YKhKm4RKCRpmHiAg9trrp136u53oduV0oYrTN+vN4tl2qqOSpqUEMjIPGhRHK78pI122NH/eHYplM9fUSWy9COsWoicRSyRoWjYRnQJI9ugf53rlLU/B+7XfFWv1smFXcayqeVaPqChYS7AaY+ren7ADf7c5fYo5KTL0pagASQvNG4B2Ayo4I3/Y5mkOUYLJq6WkyyWemk6JojBJG4+1hGhB/w8tPhrkVXlWXWK1XyqnqJ462GooZmLN0Omi0bjvtXCkk/a3m+rcTZzjhu1ZHd7DU01aZ4o/HgWoj60YRjZA2PLoDt673wPD/AMSYxXCroLSrSs8ZZ2kTqMat1NGD1dlbQ6vqQNem98bWyc1nxHueLXW4UOJVL09GhlpzJNHt5JC+3m6T7W2Olf8AlQB6k8j8WnL5NTO7kkiUksdknwn2TwvILfkV8r/nq62j5tkCzSo6AzMPvbze4jQJ+ut+u+Z2CyXGjvEE9VStFDGshd2dNL+W388bMv/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Experiential</div>
-                                                <div class="unlocked">20 Apr 2026</div>
+                                                <div>Forging Ahead</div>
+                                                <div class="unlocked">21 Apr 2026</div>
                                             </div>
-                                            <div class="description">Level up your settlers 100 times</div>
+                                            <div class="description">Craft x10 weapons</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYIAQMH/8QALhAAAQMDAgMHAwUAAAAAAAAAAQIDBAUGEQAhBxMxEiIyQVFhcSRS0jRCYoPR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwABdtzPQJKaZR0oiIjtoS6602gKcUUDIBA8OD85zpcRc9XB/WryD9iP80SRQJVzXfU4FLcbE5EQSGWVZy+UNIJbT/Igkj40MpNq3DVZsyJBpEtcuIkLkMLSG1tg9CUqwdVqM7TptduerDH1iwOh7iPx0btS6X58lymVoNzEyGlhp1xtBU2oNnAJI8OAffONOti8FVqp4q98Kejx/EmAzs4oeXMV+34G/qRpVvli3IHEiBDtpltkMsuJkoaUShK+WrA3JPb+7fbYdQdKoay11iLVK1Lol9CpU53lyoymHW1eWQ0jY+xGQfY6ojh5xAsEuKuWoVZyFcFWQGpUeVKcdDakHAQkY8O+U7efrnXCb5tw1aY3V6DJjTTIab57CJDfbQoNjJAyO7gDbrnOlZFtVvYinuD+xH5anS0KY45calW5JeoFsIQqqJxz5bgStDG+6AnfKtt+1sM9DqcqDOVMvFEpxLbanlvuqS2nspBU2snA8hk9NZgW/V3K1HkVSE480qQhyQp1xCytPaBWVd7JyM6ItUd+PcEGQ3DSzGajHnLSUpSF8tYUevqRp0If/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwUBAgQG/8QAKhAAAgICAQMDBAEFAAAAAAAAAQIDBAURBgASIQcTMTJBUWEjJXGBkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAAH/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESMf/aAAwDAQACEQMRAD8Agct5NNQsrjMOqVErxosssUaBpGKDYBA+nR/vvfUGln87asx161ieaw7dqRRQqzMfwAF31i/HUs81Ne9bFSrIYhJL2k6HtJ4AAPk+B8dOPGeScS4Nft4nEYqI5OtIYLMqrYsSsw8EFxCfv9hodJYBltgvlsxyHGXHqZJrNSwnh4poVVh/gr/3qlxTlM9+xJjM0I7i2InEUskaFo2EZ0CSPp0D+966Yub8v45m6kNXlmB/jlIEEliC1EwJOgVf2QR/voMyeLpYL1MkxuPs+/DXaaNgSSYnCOChYqvdoj5A89VLLT6ebz7s/M+yMF2aSsAqjZJ7I/gdOeIvipy7lyVsg1e62cssBG8ilRsDTdvd4JG/KEfvo6yFeSnymjyzja4zMTCNGkqT2FPtyCIDvAVlOgANedgjraTk2YnuPcl9OuKvbkcyNO0TGRmPy3d7+9/vo6NBA59yGebB2ku3ZZRI0SJFLYcl2MiaKrpF0PnwrHQ6LOUM0frfnw4Kf1G4QGGvHbJo9d757JNL7zemvEWl33d5gYtv879/fU/L3czyPmFfNZbEVce6Qukz12Om1G4DMXkYk+QPn4A6qbD/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Reel Skills</div>
-                                                <div class="unlocked">20 Apr 2026</div>
+                                                <div>Shhh...</div>
+                                                <div class="unlocked">21 Apr 2026</div>
                                             </div>
-                                            <div class="description">Fish x20 Fish</div>
+                                            <div class="description">Construct a Library</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+30 others...</div>
+                                            <div class="description ellipsis">+32 others...</div>
                                         </div>
                                     </div>
                                 </div>
