@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            7.29k hours played
+                            7.30k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        112 hours played
+                                        124 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Apr 2026
+                                        Last played on 24 Apr 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            39 / 94 achievements unlocked
+                                            45 / 94 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAgFBgcD/8QALRAAAQMDAgQEBgMAAAAAAAAAAQIDBAUGEQASBxMhUTEyQWEUFRYicbMjUqL/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwCAu25noElNMo6URER20JddabQFOKKBkAgeXB/Oc6rrdzVjcAJqyoHAAbR1/wA6Eut4IuCUEnGQ1+pGuFCYqFSqsePRoz8qfuC222EblZBznHYY8T002oztOmj1K2+IEG2fnsphxuClHMcSeWHW0f2UjbkD17j1Goi1LpfnyHKZWg3MTIaWGnXG0FTag2cAkjy4B9841u3F2u1SJwddFSpshFVqEYNSExElxuMo4KypQ8E4yPz00rNruD6ki5xtw5+pegnSzzHwKfqUWHfTyakwiTT5KGo8hG0FaULaQN6CfKtJwoEdseumEYtujWnZsidQas78dEUzykJcSjJLgSlDiQU8zevcQVHrkDOE41gl824atMbq9BkxppkNN89hMhvehQbGSBkfbgDp45zoCKq8Y7JSyw6HC2G+eXEFzaNwH3bvQLUB7H2Gl0bBsrj4lxaTZz9YkUWsORS1htbkUctxRBCdw3ZCSfEkeB0nVsSOZdEdwhCArnK2pGEpy2voB27atlRurihUadIgzajOdiSGi062VMYUgjBBx16jVZt+iVGHV2H5UVTTLaXCpalown+NQ76NJD//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQgBBgcE/8QAMRAAAQQBAwEEBwkAAAAAAAAAAQIDBBEFAAYhEgcTIkEjMTJRYZPSJWJxcoGRkqGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAhJB/9oADAMBAAIRAxEAPwABu3cz0CSnGYdKIiI7aEuutNoCnFFAsAgezR/G71XEbny49c1fh+4iv81OUaTL3qiGXO7TIdjtFQrwhSEC+ePPTBYbs82xiFsgQY0wP1TshCnHWFjy6b5NkeQBv90qQHLbMBXubLlJUJThQPaUG0EDn8ujW1N0vz5DmMzQbmJkNrDTrjaCptQbNAkj2aB+N1phXG4LsBzHd1GUwlpXVGSlKW0KBKVApSk+FXB6Saon3cK21FaxvaJIgsq6mI78htBJBPSELq686rUtJm8vPoI3DOMTeRkC1dyuO7QNE9KGzV/ppg8J2n7PzEfHS5cgQFxgoSGXClBqgLAPH8T/AHrFd87cOWmN5fAyY00yGm+/YRIb60KDYsgWPDQHHru9VVO2c2QKx6/mI+rR0aDA5vtz25jnH04WG7kLCw2VNhIT1m1HrVyfhwePfrEsflTlt+uZFae7Mp194ou+kltZq+NCztjN0fs9fzG/q13YDCZGHmGH5UVTTLaXCtalopPo1fHUZD//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fine Art</div>
-                                                <div class="unlocked">22 Apr 2026</div>
+                                                <div>Finders Keepers</div>
+                                                <div class="unlocked">23 Apr 2026</div>
                                             </div>
-                                            <div class="description">Craft x5 works of art</div>
+                                            <div class="description">Explore a Loot stash</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQT/xAAwEAABAwMCBAMGBwAAAAAAAAABAgMEBQYRACEHEhQxE0FhFiIyUXGBF0JUZnSClv/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABoRAAICAwAAAAAAAAAAAAAAAAARARIhMVH/2gAMAwEAAhEDEQA/AMC7bmegSU0yjpRERHbQHXWm0BTiigZAIHw4P1znfR7GpF7Xg+BSVOCKlWFy3kJQyn78vvH0TnXPbDdJlcVWIlZKUsPqabbK0pU2HC2jl5kqBCgTsB5kjViuW+KhbtXnUimIqtUapbKXJLkCNHCI4P5VAp2wMHbyOdI+A1eyZ33bt72gS7NWqTTv1kZtKkf2HLlP329dYtp3S9PkOU2shuYiQ0sMuuNoKkKDZwMkfDgH1zjV0XddVZqVDhVaRKhsVpQaZfcSwpCVFIUEkcm5VkADUc4jxaTTeLTcKllCnmkOdWpttDbfiFpRwEJAAUPP57HVElVZgT4bpPFukJBzmfB7fRrVUrHEOPZvFu74VVpkqZTJsptTqmN1IHgoScIIwrI77g/LSxBejUW7EXZSYrNdedipQWGaomO7Hc8MBS0lPcFI5cd9zpoTxfrJTtZ1Rwf3ArRsVAa9dNArN12jDo8yrynm6zBfbbfB6aO0ruhvO+RlAIUdsYHY6R+ISynj5XcnA6l3v/H0/fi9WQnHsdUf9ArSNeFZkXXc9MqrtvP0tyMy62++9UepLieRXKPeO2CT2782pmo//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIAgf/xAApEAACAgECBQMFAQEAAAAAAAABAgMEEQUGABIhMUEHE1EUIjJhcRaD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABoRAAMBAAMAAAAAAAAAAAAAAAABEQISMUH/2gAMAwEAAhEDEQA/AAG7tzzafYGmaOqVErRIJpYo0DOxQZGQPxwf7nPBGrtX1KnjgkioWXjliE8bAw4KEZH8OPHfhRt157+/YKNHkNmzPWijDjK8xRMcw8j5/XFvQxOPbMpTKoAVRcDPnH6423CKzeyJ7mta/XuTVJ5LEdiEsssRiXmQr1bI5fGCT8cFNsbls27k2k69GtkzRusbzRJzxOIzgHI7YHbvnHFGalBszZm4zf1KBE1PWppGa3MnOEGAGyx6Rp1C/skd+Jd1CutD1X1KqJ0nSO3ZxKr84YFXIPN5OD1/fDtDi8+i9uLVLWmbvluadYevbgEUkMsf5IwhXBHFAav6j7gi3Jsw6bYlGkTute57iK5myiSBj06ZjJII8h/jpxjfO3Tq1yPV9Bs1rpnij9+BLEfOjCMZIGR9uAOnfOeF6ho+5aVyrcp17EVmsyvDIsyZQqcqRlvHxxOlYNfrpum3ru/7v1EkgrV0iigiJIVV9tWJA7dSxOf5wobTlH+kq9QAFl6f8n41e0Tcl6US3K9ieRUCKzzISqjso+7oB2A7DxwV0nSrVZtJaaoYWr/VNYkPIOjJ9mWz1x1/meHQh//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>What's Up, Doc?</div>
-                                                <div class="unlocked">22 Apr 2026</div>
+                                                <div>Go Forth</div>
+                                                <div class="unlocked">23 Apr 2026</div>
                                             </div>
-                                            <div class="description">Construct a Medical Room</div>
+                                            <div class="description">Send out a caravan</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+37 others...</div>
+                                            <div class="description ellipsis">+43 others...</div>
                                         </div>
                                     </div>
                                 </div>
