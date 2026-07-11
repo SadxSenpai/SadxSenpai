@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            7.49k hours played
+                            7.50k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 9 Jul 2026
+                                        Last played on 10 Jul 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 24 achievements unlocked
+                                            10 / 24 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgEBgX/xAAsEAACAQMCBQIGAwEAAAAAAAABAgMEBREGEgATITFRIkEHFTJCYYEUcXKR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAIBEAAgICAgMBAQAAAAAAAAAAAQIDEQAEEiFBUZEysf/aAAwDAQACEQMRAD8AF/hnoAagRrxfpWo9OwMytIGCvUOoyUTPYDI3NjA/J4ftI6NeOBajS2nLdbKNlzHVVyDmyKexGVeTB8krn24y6KsdFLebRZpBE1ts9GJZUONshQKfV+GlkLnzjHCvJcUqpA1LU45QkZvVtLHAwQPcYB4NUMitI18R4GZLsCGVNdK5MLs+PQAw/v8AopamnkfVlht9yplXLT0MY5yL5+hJMf5J/riefif8PYrFGb1pqY1mnZGUElw0lMzdlbHdT7N+j172hT1qxUqzyylqblhxIckktjaQe/vngo1hZ6KLUlZa05Ytl/pS3LXG1WclXK+MOEkHg54miiiRbq6Pn4ctJOchgkrlVgjr6M8vTd4p5bnb7irBKO60SIHPRUZghUE+wEkbIfHCTaKKUVTtOhQIu07iPST06+MDJ6+OJC0FrQWmH5TeN8lpdmaORV3PSue5A+5Dgbk/Ywe9D0mvaW505+USR10EhDNFRyAsnUnLIWEnY46AYxu7jHEvLLFG0Kjpr79Xgz6qTzR7A/S+PddjOsqoqioqppeS+WcnGP8AgHnpjtxw2oLxDT356xiXo7PTMZXUgqSpaSQDyNxROnvnjRW65hoE33ST5asfVP5TqrMMs3oTcXH1eD1Abv04Atf62S6QyWuygpbWYNPMU2NUsDkAL9sansvvjJ64ARtiTZUIy8QKwtLRXTdpWNsR/c//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwIIAwQG/8QALRAAAgEDAwIFAwQDAAAAAAAAAQIDBAURBhIxACEHIkFCURMVMiNSYYFxofH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQQD/8QAJREAAgIBAgQHAAAAAAAAAAAAARECAwAEMRNRcdESFCEiscHw/9oADAMBAAIRAxEAPwAZ8M/D9b9Eb1qCVqPTsLMNwYLJUuvKpnhR7nx24GTw+aT0g0SRtpjT9rtUEib4pa8D68yfuUFXlK9+SV546w6NsdFLf7daZBE1tsdIHdTja7JtC7h/Mjs5+cdJdx09FXVL3eS61CBiSgUcAgHHOcdQ6m2cIcVOLW665ZQKzZwGpJtPfYLOEv2jYKuGobVdjttzghH609vVTNCMZ8wCrIBjv2J7enVevE/w+SwL9407M1bpyVlUOWDSUzNwr45U+1+DwcHm4dn0/Bb5ZLvHc6h1VS0ikYB8uO+Dn/nRnrKy0cV+uNoQRrbL5SGRUUDajPuDFfgCRVcfGejTWSnWLl7SVu+hxX8MXeXbkm0uoX7vpaeu8E14pa5GCUl4pFCueyqz7WQE+nnVo/8APTDbrlA9sFPUQSMAduACDkAAjj5Hp1SnQetFtlN9ovW57UxYxSqm96Vm5wvujJ/JP7HfOXrS2tS9qpxS1EN3lp5FlR6SUSS4B7AqxDL2yvmU+hySMdaWhVmqUWGx9jJpwlKwX0yUkiPgjFytu1LDaZqSGnn3SoY1yvLEf6+cc9Duo7zDT3qprSd9HaaVg7qRtZk3M4Bz3G9lj7cnqOpNYtS2sxS1KWn6igSSVcojk2jnCgs5J7DyKB3Y583QZrvWaXKmNosu9LWCplmZdj1TLxke2MH8U/s98YdXrUKox8IbPYYq65RtOouk5JAcuZOf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bob the Builder</div>
-                                                <div class="unlocked">9 Jul 2026</div>
+                                                <div>It’s been a Full Month!</div>
+                                                <div class="unlocked">10 Jul 2026</div>
                                             </div>
-                                            <div class="description">Construct 500 building pieces</div>
+                                            <div class="description">Play for 30 in-game days</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQGCAL/xAAtEAACAQMBBgQGAwAAAAAAAAABAgMEBREGABIhMUFhB0JRcRMVIjKB8DNSkv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAApEQABAwEGBAcAAAAAAAAAAAABAgMRAAQSEyEiQRQxobFRYYGRwfDx/9oADAMBAAIRAxEAPwAc8LfDltSlbpeTLBYlcxqIv5auQeSMYPAZGWxw5DJ5Pel9GS00Yk05py3WimI+ia4IBM49cFXkx3Yr7bdaNtwo2FJZnBrbPSpTU8cbKpHDDynPqzN+X9tkHTF2uKWtJL1PGZpJCMPhd3t1/TtkxUqXrmPbrWstLCIZi9559Kot/wBFxVVNJJq2w2+5Uqrl6igQGWNfU4VJMd1Le22efE/w+SwL8407M1bpyVlUOWDSUzNyV8c1PlfkeRwee247pDMAW+G6ht1mjPFD7/o4bDut7HSU2orpZQI1tt6pWYRgDdjZywYqOgEiLIPTO1JSmFtmRUUhwqwnwL0SCMpjYioGnbvBNeaSvRtyku9IgRzwVGbdZAT0w6snY7Xq7GaqoPiHehk3mLsAcBxgZ3e+Tkc/pyB0OUNB60W2U3yi9bz2pixilVN96Vm54XzRk/cn5HHOWuwauqp6NBRy0F+iUAD4M+ZlXpkZD8v7KT32JCCgsvDSTMjakUHg6LTZVALAgg8j4H7+olhaopUjfjNF9TSHOCZB9ihcZwemeeT7Ci6lvUUV8qq+RjLS2qlcSSAghmXed+OeILssfc7Q9RawqoIGWoeisUDLhnnmxMw6gDJf/Kg99hXXes0uVMbRZd9LWCplmZdx6pl5ZHljB+1PyeOMAIQE4TIN2Zz7fNMC8pfEWogrggAcs9+w9K//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggDBAcF/8QAKxAAAgEDBAECBQUBAAAAAAAAAQIDBAURBhIhMQATQQcVIjJCFFFhcYFS/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMEAv/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEAEiEEMXFRYaEiI4Gxwf/aAAwDAQACEQMRAD8Axn4Z/D9b9Eb1qCVqPTsLMNwYLJUuvapnpR+T446GT0w2iNFRJRVFTYrDR2elEO6lnq4VMs7EjGdwaQIRk5JBPGBjyrpSx25mgt0SQ1Eljih9OmlcJC6p9zv++ZDu28ZJ5yOPCG666r7fWSR1S0sRjUSNHTyFvUDAHduPfHtjyQuTKlAwOmJ+TAntT1gt2pREneckTtgZidycVydQaLhqaeSTVtht9ypVUl6igQerGv7nCpJj+VLf14vPxP8Ah8lgX5xp2Zq3TkrKocsGkpmbpXx2p/F+j0cHtr7fqaa61kVKJqihWVVInFMG+o4woODtz/0fAnWdmpIr3WWUel8uvFD0qhRubcGbA4BEiq/HGfAh5KvU3Nuxkitltafbfi+JEAiQPHmqGnbvBNeaSuRglJeKRQrnhVZtrICfb61aP+/CmrtNHcah/wBTBKal4xD2CFKghTtIzke4yOvbxYdB60W2U3yi9bntTFjFKqb3pWbvC/lGT9yf6Oc53DTOrKmrpFhpbhR3KFhsFRTSK88K4ONykeoV6HK5A9/HEpS2pp1FydxzUbzTq3U6nTLtWBB7jtRpaqaSz0qUcMjSTg/XJswd3QCA5KgD9uSSf48D9R3mGnvVTWsd9HaaVg7qRtZk3M4BzyN7LHx2fINT6uqqSA09RW0tugVdrVdTIsc0q7RnaoHqAcHpckHvzEdd6zS5UxtFl3pawVMszLseqZesj8YwftT/AE84wQpK20ttotG55/eaDDLjbqtRqF3KOAOgP1xX/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Well Henri’s happy today…</div>
-                                                <div class="unlocked">8 Jul 2026</div>
+                                                <div>Drones!</div>
+                                                <div class="unlocked">10 Jul 2026</div>
                                             </div>
-                                            <div class="description">Maximise an animal’s happiness leveles</div>
+                                            <div class="description">Deploy your first transport drone</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
