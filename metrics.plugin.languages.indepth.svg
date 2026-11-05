@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.18221096918853" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="170.18221096918853" y="0" width="152.89005618119066" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="323.07226715037916" y="0" width="100.30714903551423" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="423.37941618589343" y="0" width="36.6205838141066" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.05233477824274" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="169.05233477824274" y="0" width="151.87498631385432" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="320.92732109209703" y="0" width="102.69522700232221" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="423.62254809441924" y="0" width="36.37745190558071" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,8 +49,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>13.4k lines</div>
-                                <div>415 kB</div>
+                                <div>13.8k lines</div>
+                                <div>428 kB</div>
                             </small>
                         </div>
                     </section>
